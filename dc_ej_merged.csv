@@ -1,0 +1,516 @@
+dc_id,name,cluster,latitude,longitude,capacity_mw,operator_type,annual_water_mgal,year_opened,pct_people_of_color,pct_low_income,pm25_percentile,traffic_proximity_percentile,wastewater_percentile,cancer_risk_percentile,respiratory_hazard_percentile,ej_index_composite
+DC0001,Northern Virginia (Data Center Alley) Facility 1,Northern Virginia (Data Center Alley),38.93941,-77.38042,55.2,Hyperscale,0.95,2010,90.3,36.6,64.7,87.9,66.9,69.8,79.1,64.9
+DC0002,Northern Virginia (Data Center Alley) Facility 2,Northern Virginia (Data Center Alley),39.12415,-77.28861,60.9,Hyperscale,1.93,2024,55.9,49.4,71.2,51.4,83.1,68.9,65.3,75.6
+DC0003,Northern Virginia (Data Center Alley) Facility 3,Northern Virginia (Data Center Alley),38.76549,-77.23064,37.7,Colocation,0.8,2018,59.8,49.1,58.7,76.2,67.9,49.8,60.5,49.7
+DC0004,Northern Virginia (Data Center Alley) Facility 4,Northern Virginia (Data Center Alley),38.76617,-77.17038,21.0,Hyperscale,0.35,2018,49.3,18.1,63.2,35.3,51.0,50.9,83.9,44.7
+DC0005,Northern Virginia (Data Center Alley) Facility 5,Northern Virginia (Data Center Alley),39.11382,-77.39967,46.1,Hyperscale,1.32,2020,48.3,45.1,57.0,96.7,36.1,55.6,70.2,71.2
+DC0006,Northern Virginia (Data Center Alley) Facility 6,Northern Virginia (Data Center Alley),38.59355,-77.48206,59.9,Enterprise,0.94,2018,55.2,14.3,64.7,96.3,67.4,67.9,43.7,42.6
+DC0007,Northern Virginia (Data Center Alley) Facility 7,Northern Virginia (Data Center Alley),38.84757,-77.5827,58.0,Colocation,1.24,2019,62.3,24.2,81.5,52.4,60.6,25.4,56.4,42.3
+DC0008,Northern Virginia (Data Center Alley) Facility 8,Northern Virginia (Data Center Alley),38.63025,-77.3019,58.9,Hyperscale,2.2,2015,20.2,63.5,96.9,91.9,76.2,54.9,79.2,76.0
+DC0009,Northern Virginia (Data Center Alley) Facility 9,Northern Virginia (Data Center Alley),38.82918,-77.41624,21.7,Colocation,0.76,2017,64.5,29.0,58.4,99.0,59.5,-3.3,36.0,53.0
+DC0010,Northern Virginia (Data Center Alley) Facility 10,Northern Virginia (Data Center Alley),38.72043,-77.59872,47.1,Hyperscale,1.61,2024,80.6,47.2,86.4,58.8,17.9,53.3,70.5,62.6
+DC0011,Northern Virginia (Data Center Alley) Facility 11,Northern Virginia (Data Center Alley),38.72815,-77.21543,61.2,Hyperscale,2.05,2018,39.4,45.7,99.0,44.6,75.7,21.2,80.3,46.4
+DC0012,Northern Virginia (Data Center Alley) Facility 12,Northern Virginia (Data Center Alley),39.01763,-77.68179,62.3,Colocation,0.92,2017,69.2,26.9,72.6,51.1,45.4,72.0,55.7,64.2
+DC0013,Northern Virginia (Data Center Alley) Facility 13,Northern Virginia (Data Center Alley),38.99625,-77.05163,43.9,Enterprise,0.71,2021,58.6,54.0,75.4,62.3,39.2,52.5,86.6,60.5
+DC0014,Northern Virginia (Data Center Alley) Facility 14,Northern Virginia (Data Center Alley),39.03064,-77.021,50.3,Colocation,1.31,2018,46.8,60.7,75.8,79.7,39.6,49.5,51.1,53.9
+DC0015,Northern Virginia (Data Center Alley) Facility 15,Northern Virginia (Data Center Alley),38.86567,-77.41578,46.4,Hyperscale,1.72,2018,71.7,58.6,74.2,96.4,76.3,60.3,41.4,48.9
+DC0016,Northern Virginia (Data Center Alley) Facility 16,Northern Virginia (Data Center Alley),38.49224,-77.52364,56.7,Hyperscale,0.86,2014,57.3,69.3,66.9,56.2,45.0,61.8,80.8,81.2
+DC0017,Northern Virginia (Data Center Alley) Facility 17,Northern Virginia (Data Center Alley),39.01477,-77.27767,36.7,Colocation,1.34,2022,58.3,51.8,45.5,99.0,30.3,86.6,57.0,50.5
+DC0018,Northern Virginia (Data Center Alley) Facility 18,Northern Virginia (Data Center Alley),38.94239,-77.41804,55.6,Hyperscale,0.89,2018,42.0,99.0,71.4,69.7,80.7,50.1,64.0,59.7
+DC0019,Northern Virginia (Data Center Alley) Facility 19,Northern Virginia (Data Center Alley),38.9033,-77.29257,45.1,Hyperscale,1.09,2013,52.8,76.7,63.5,38.2,54.5,68.1,46.9,47.5
+DC0020,Northern Virginia (Data Center Alley) Facility 20,Northern Virginia (Data Center Alley),38.80777,-77.25035,42.4,Colocation,0.92,2021,52.2,77.1,58.6,97.9,47.6,69.7,55.4,69.5
+DC0021,Northern Virginia (Data Center Alley) Facility 21,Northern Virginia (Data Center Alley),38.89636,-77.36638,14.8,Hyperscale,0.3,2020,41.9,67.6,69.4,56.5,57.5,93.8,66.5,49.1
+DC0022,Northern Virginia (Data Center Alley) Facility 22,Northern Virginia (Data Center Alley),38.84523,-77.49502,45.1,Edge,0.92,2016,40.3,62.8,70.9,83.2,29.0,39.7,85.7,63.5
+DC0023,Northern Virginia (Data Center Alley) Facility 23,Northern Virginia (Data Center Alley),38.84375,-77.60711,63.0,Enterprise,1.22,2018,71.6,33.4,49.7,89.1,84.0,41.4,39.6,57.4
+DC0024,Northern Virginia (Data Center Alley) Facility 24,Northern Virginia (Data Center Alley),38.98535,-77.04085,66.9,Hyperscale,1.82,2022,47.6,36.3,44.9,59.9,35.8,41.3,69.6,58.1
+DC0025,Northern Virginia (Data Center Alley) Facility 25,Northern Virginia (Data Center Alley),38.6717,-77.47459,46.6,Hyperscale,1.44,2019,70.7,19.7,67.6,99.0,53.0,79.7,79.4,71.0
+DC0026,Northern Virginia (Data Center Alley) Facility 26,Northern Virginia (Data Center Alley),38.75937,-77.2072,25.7,Enterprise,0.46,2018,65.0,64.0,80.0,82.0,36.6,29.0,34.4,55.1
+DC0027,Northern Virginia (Data Center Alley) Facility 27,Northern Virginia (Data Center Alley),38.70901,-77.42085,57.8,Colocation,2.0,2019,72.7,30.6,84.0,59.3,50.3,46.4,28.1,62.1
+DC0028,Northern Virginia (Data Center Alley) Facility 28,Northern Virginia (Data Center Alley),38.62844,-77.42139,41.8,Edge,1.53,2020,92.8,51.4,34.1,84.9,25.4,39.0,59.4,60.6
+DC0029,Northern Virginia (Data Center Alley) Facility 29,Northern Virginia (Data Center Alley),38.62735,-77.6405,53.2,Enterprise,1.94,2020,43.8,47.2,80.3,86.3,88.7,99.0,79.3,55.9
+DC0030,Northern Virginia (Data Center Alley) Facility 30,Northern Virginia (Data Center Alley),38.90346,-77.30022,58.3,Hyperscale,0.78,2020,77.5,62.0,76.5,72.8,41.1,42.6,62.1,61.0
+DC0031,Northern Virginia (Data Center Alley) Facility 31,Northern Virginia (Data Center Alley),39.18584,-77.24576,26.2,Hyperscale,0.84,2017,49.8,61.2,99.0,34.4,74.0,61.8,72.5,52.9
+DC0032,Northern Virginia (Data Center Alley) Facility 32,Northern Virginia (Data Center Alley),38.96818,-77.1806,65.0,Enterprise,2.3,2020,59.4,55.3,62.0,38.9,56.0,34.8,76.3,32.8
+DC0033,Northern Virginia (Data Center Alley) Facility 33,Northern Virginia (Data Center Alley),38.80583,-77.51582,31.0,Colocation,1.2,2023,80.5,61.3,75.2,26.0,53.9,86.2,54.1,43.8
+DC0034,Northern Virginia (Data Center Alley) Facility 34,Northern Virginia (Data Center Alley),38.70315,-77.08394,53.5,Colocation,1.41,2019,50.5,51.3,52.1,94.0,59.7,52.0,39.2,65.7
+DC0035,Northern Virginia (Data Center Alley) Facility 35,Northern Virginia (Data Center Alley),38.96262,-77.53857,28.1,Edge,1.06,2023,70.3,36.9,27.1,77.5,57.1,69.9,99.0,58.5
+DC0036,Northern Virginia (Data Center Alley) Facility 36,Northern Virginia (Data Center Alley),38.93685,-77.37731,56.7,Edge,2.18,2022,52.8,29.8,61.8,72.5,62.3,97.6,73.4,57.0
+DC0037,Northern Virginia (Data Center Alley) Facility 37,Northern Virginia (Data Center Alley),38.69758,-77.68327,38.0,Colocation,0.67,2023,49.3,58.0,51.1,72.9,71.9,58.8,51.9,28.3
+DC0038,Northern Virginia (Data Center Alley) Facility 38,Northern Virginia (Data Center Alley),39.00415,-77.21138,72.8,Colocation,1.14,2024,82.6,60.8,75.1,38.1,91.5,53.9,58.4,43.9
+DC0039,Northern Virginia (Data Center Alley) Facility 39,Northern Virginia (Data Center Alley),38.86048,-77.60145,50.6,Enterprise,1.59,2018,29.8,75.8,90.6,66.0,46.2,55.6,57.3,42.1
+DC0040,Northern Virginia (Data Center Alley) Facility 40,Northern Virginia (Data Center Alley),38.95094,-77.15087,35.5,Enterprise,1.22,2023,56.7,55.8,85.7,69.6,26.5,70.2,59.1,78.1
+DC0041,Northern Virginia (Data Center Alley) Facility 41,Northern Virginia (Data Center Alley),38.94271,-76.5024,54.0,Enterprise,1.71,2023,87.7,82.0,57.3,99.0,68.9,95.7,54.4,54.7
+DC0042,Northern Virginia (Data Center Alley) Facility 42,Northern Virginia (Data Center Alley),39.0544,-77.60356,21.4,Colocation,0.33,2008,66.9,55.7,90.0,64.7,86.8,77.8,59.9,68.1
+DC0043,Northern Virginia (Data Center Alley) Facility 43,Northern Virginia (Data Center Alley),39.26664,-77.7608,55.8,Hyperscale,0.78,2022,53.5,99.0,19.4,82.8,22.3,58.6,62.3,80.0
+DC0044,Northern Virginia (Data Center Alley) Facility 44,Northern Virginia (Data Center Alley),38.55971,-77.54649,39.7,Enterprise,1.07,2015,49.5,78.9,46.2,96.2,50.7,64.6,57.5,76.9
+DC0045,Northern Virginia (Data Center Alley) Facility 45,Northern Virginia (Data Center Alley),38.71853,-77.30238,45.7,Colocation,1.25,2021,81.6,61.6,46.7,55.0,38.5,18.2,87.9,54.3
+DC0046,Northern Virginia (Data Center Alley) Facility 46,Northern Virginia (Data Center Alley),38.73271,-77.34667,52.0,Enterprise,1.12,2016,55.9,82.6,58.8,52.5,56.2,40.5,70.5,53.7
+DC0047,Northern Virginia (Data Center Alley) Facility 47,Northern Virginia (Data Center Alley),38.70735,-77.37524,53.0,Hyperscale,1.26,2014,52.9,40.8,65.5,71.0,49.7,56.0,62.4,56.3
+DC0048,Northern Virginia (Data Center Alley) Facility 48,Northern Virginia (Data Center Alley),39.00584,-77.28009,19.6,Enterprise,0.63,2017,62.6,39.2,85.5,71.2,50.1,70.0,62.5,34.6
+DC0049,Northern Virginia (Data Center Alley) Facility 49,Northern Virginia (Data Center Alley),39.23199,-77.12286,21.1,Enterprise,0.47,2006,68.1,32.3,84.2,64.5,78.3,50.6,65.2,75.8
+DC0050,Northern Virginia (Data Center Alley) Facility 50,Northern Virginia (Data Center Alley),38.76284,-77.40223,74.5,Colocation,1.17,2019,57.2,40.9,79.2,82.0,49.1,23.5,52.3,68.4
+DC0051,Northern Virginia (Data Center Alley) Facility 51,Northern Virginia (Data Center Alley),38.80454,-77.62451,70.7,Hyperscale,2.11,2018,48.0,52.5,55.6,30.7,46.3,76.6,18.9,62.4
+DC0052,Northern Virginia (Data Center Alley) Facility 52,Northern Virginia (Data Center Alley),38.59257,-77.33713,82.0,Enterprise,2.92,2014,40.7,64.9,80.3,65.9,57.4,47.0,38.4,82.7
+DC0053,Northern Virginia (Data Center Alley) Facility 53,Northern Virginia (Data Center Alley),38.88583,-77.48205,46.1,Colocation,1.74,2018,46.4,84.1,51.9,79.8,36.1,73.6,57.7,54.5
+DC0054,Northern Virginia (Data Center Alley) Facility 54,Northern Virginia (Data Center Alley),38.78064,-77.48533,78.3,Edge,2.15,2018,73.0,43.3,41.7,84.5,36.0,73.5,82.4,53.6
+DC0055,Northern Virginia (Data Center Alley) Facility 55,Northern Virginia (Data Center Alley),38.90058,-77.48699,41.7,Hyperscale,1.47,2022,83.3,62.3,54.9,97.3,36.0,55.6,60.0,67.4
+DC0056,Northern Virginia (Data Center Alley) Facility 56,Northern Virginia (Data Center Alley),38.76126,-77.48689,39.4,Colocation,1.24,2023,82.1,73.8,71.4,63.7,21.0,36.9,97.5,33.2
+DC0057,Northern Virginia (Data Center Alley) Facility 57,Northern Virginia (Data Center Alley),38.99632,-77.21148,31.9,Enterprise,1.05,2024,47.9,75.6,71.2,87.9,73.1,92.6,69.5,68.2
+DC0058,Northern Virginia (Data Center Alley) Facility 58,Northern Virginia (Data Center Alley),38.74917,-77.74329,25.8,Colocation,0.86,2023,49.0,64.4,60.3,60.2,80.8,81.2,96.0,81.6
+DC0059,Northern Virginia (Data Center Alley) Facility 59,Northern Virginia (Data Center Alley),38.81082,-77.10827,58.0,Edge,0.92,2019,78.5,18.3,99.0,87.7,44.3,77.7,44.2,67.6
+DC0060,Northern Virginia (Data Center Alley) Facility 60,Northern Virginia (Data Center Alley),38.99643,-77.4651,59.9,Colocation,2.2,2006,38.3,36.5,80.2,90.8,68.3,57.4,23.7,56.0
+DC0061,Northern Virginia (Data Center Alley) Facility 61,Northern Virginia (Data Center Alley),38.90835,-77.37863,46.5,Colocation,1.38,2017,71.6,46.4,67.0,65.6,54.1,64.7,58.7,79.1
+DC0062,Northern Virginia (Data Center Alley) Facility 62,Northern Virginia (Data Center Alley),38.95713,-77.08492,26.2,Enterprise,0.86,2022,22.3,41.8,51.7,73.7,62.9,95.6,99.0,48.1
+DC0063,Northern Virginia (Data Center Alley) Facility 63,Northern Virginia (Data Center Alley),38.8478,-77.5474,46.2,Enterprise,1.14,2017,62.0,56.6,53.0,81.9,55.9,41.8,58.6,44.9
+DC0064,Northern Virginia (Data Center Alley) Facility 64,Northern Virginia (Data Center Alley),38.72811,-77.21495,66.4,Hyperscale,1.05,2021,80.7,90.7,71.8,71.5,64.5,86.8,86.0,57.3
+DC0065,Northern Virginia (Data Center Alley) Facility 65,Northern Virginia (Data Center Alley),38.76521,-77.29895,22.2,Edge,0.77,2024,66.5,65.8,46.9,93.6,99.0,86.5,40.3,31.3
+DC0066,Northern Virginia (Data Center Alley) Facility 66,Northern Virginia (Data Center Alley),38.59666,-77.49613,66.4,Enterprise,1.02,2020,74.8,37.5,72.6,99.0,46.7,55.6,69.2,40.7
+DC0067,Northern Virginia (Data Center Alley) Facility 67,Northern Virginia (Data Center Alley),39.00438,-77.38519,44.7,Colocation,0.6,2010,48.4,53.2,62.0,81.5,99.0,65.1,47.9,78.8
+DC0068,Northern Virginia (Data Center Alley) Facility 68,Northern Virginia (Data Center Alley),38.66954,-77.07035,57.1,Edge,1.63,2018,33.4,24.9,56.7,63.6,47.5,62.5,69.1,73.9
+DC0069,Northern Virginia (Data Center Alley) Facility 69,Northern Virginia (Data Center Alley),38.97423,-77.43827,48.5,Colocation,0.73,2024,63.6,41.5,85.7,52.9,25.2,87.3,85.6,47.8
+DC0070,Northern Virginia (Data Center Alley) Facility 70,Northern Virginia (Data Center Alley),38.85227,-76.84933,51.4,Colocation,1.62,2020,54.8,34.4,73.3,99.0,76.6,83.9,79.5,58.9
+DC0071,Northern Virginia (Data Center Alley) Facility 71,Northern Virginia (Data Center Alley),39.00702,-77.30966,79.5,Hyperscale,1.62,2019,81.5,67.6,93.3,60.1,22.9,84.1,70.6,54.8
+DC0072,Northern Virginia (Data Center Alley) Facility 72,Northern Virginia (Data Center Alley),38.70451,-77.12283,16.5,Edge,0.25,2024,57.7,99.0,55.8,52.2,63.0,86.8,99.0,68.1
+DC0073,Northern Virginia (Data Center Alley) Facility 73,Northern Virginia (Data Center Alley),38.91152,-76.93724,60.0,Hyperscale,1.87,2023,39.1,92.1,67.0,52.5,37.4,79.9,68.5,63.7
+DC0074,Northern Virginia (Data Center Alley) Facility 74,Northern Virginia (Data Center Alley),38.74616,-77.18677,68.3,Edge,1.65,2022,85.2,36.7,92.0,58.9,99.0,75.1,46.4,30.5
+DC0075,Northern Virginia (Data Center Alley) Facility 75,Northern Virginia (Data Center Alley),39.0623,-77.45322,18.0,Enterprise,0.7,2022,76.6,45.2,64.6,84.6,83.4,87.6,41.6,78.9
+DC0076,Northern Virginia (Data Center Alley) Facility 76,Northern Virginia (Data Center Alley),39.0937,-77.8895,30.8,Hyperscale,0.63,2022,51.6,7.6,46.2,73.7,39.6,61.4,70.3,56.4
+DC0077,Northern Virginia (Data Center Alley) Facility 77,Northern Virginia (Data Center Alley),38.85094,-77.33966,37.9,Hyperscale,0.95,2024,53.1,27.7,67.8,28.0,46.1,44.6,59.4,55.9
+DC0078,Northern Virginia (Data Center Alley) Facility 78,Northern Virginia (Data Center Alley),38.96211,-77.65109,53.4,Colocation,1.65,2018,79.3,84.4,47.3,99.0,44.0,66.6,73.6,93.1
+DC0079,Northern Virginia (Data Center Alley) Facility 79,Northern Virginia (Data Center Alley),38.90982,-77.51467,69.4,Enterprise,1.86,2020,52.2,16.8,94.2,52.6,53.2,40.8,57.1,47.1
+DC0080,Northern Virginia (Data Center Alley) Facility 80,Northern Virginia (Data Center Alley),38.87082,-77.12415,47.6,Hyperscale,1.13,2008,74.2,54.3,55.1,89.2,66.8,26.2,81.4,61.5
+DC0081,Northern Virginia (Data Center Alley) Facility 81,Northern Virginia (Data Center Alley),38.96617,-77.0489,29.8,Hyperscale,0.5,2017,87.0,55.2,53.1,65.2,78.8,47.7,55.6,55.8
+DC0082,Northern Virginia (Data Center Alley) Facility 82,Northern Virginia (Data Center Alley),38.97349,-77.73079,67.7,Edge,1.67,2017,41.3,37.6,70.5,93.3,68.1,62.2,48.1,74.2
+DC0083,Northern Virginia (Data Center Alley) Facility 83,Northern Virginia (Data Center Alley),39.12042,-77.3337,70.7,Edge,2.53,2014,69.8,38.6,83.6,80.5,43.3,61.1,54.6,95.8
+DC0084,Northern Virginia (Data Center Alley) Facility 84,Northern Virginia (Data Center Alley),38.60158,-77.35324,57.5,Colocation,1.15,2024,71.6,56.4,75.9,96.9,59.3,51.4,80.0,56.5
+DC0085,Northern Virginia (Data Center Alley) Facility 85,Northern Virginia (Data Center Alley),38.47786,-77.36961,24.5,Hyperscale,0.37,2013,42.7,27.4,94.9,71.9,48.2,58.5,79.3,54.8
+DC0086,Northern Virginia (Data Center Alley) Facility 86,Northern Virginia (Data Center Alley),38.97054,-77.59228,52.7,Enterprise,1.17,2019,35.9,59.2,89.2,92.1,48.9,88.5,68.0,76.3
+DC0087,Northern Virginia (Data Center Alley) Facility 87,Northern Virginia (Data Center Alley),38.67257,-77.23911,36.6,Hyperscale,0.65,2013,72.3,22.3,98.8,70.3,73.8,36.3,73.5,74.3
+DC0088,Northern Virginia (Data Center Alley) Facility 88,Northern Virginia (Data Center Alley),38.70728,-77.6655,42.0,Colocation,0.95,2021,96.8,80.7,77.4,38.4,64.1,51.3,68.4,41.9
+DC0089,Northern Virginia (Data Center Alley) Facility 89,Northern Virginia (Data Center Alley),38.72405,-77.30292,43.2,Enterprise,1.48,2015,58.2,42.4,57.5,58.5,58.2,68.9,16.4,25.6
+DC0090,Northern Virginia (Data Center Alley) Facility 90,Northern Virginia (Data Center Alley),38.81023,-77.4704,25.7,Colocation,0.66,2018,55.9,48.7,70.8,54.7,61.4,65.7,50.0,73.1
+DC0091,Northern Virginia (Data Center Alley) Facility 91,Northern Virginia (Data Center Alley),39.14609,-77.40479,54.1,Colocation,1.44,2012,65.2,63.6,68.6,99.0,74.3,53.4,79.5,36.0
+DC0092,Northern Virginia (Data Center Alley) Facility 92,Northern Virginia (Data Center Alley),38.90603,-77.01477,6.3,Hyperscale,0.12,2018,64.2,59.1,69.8,62.6,38.9,47.4,65.9,43.3
+DC0093,Northern Virginia (Data Center Alley) Facility 93,Northern Virginia (Data Center Alley),38.73362,-77.58794,71.6,Colocation,2.42,2011,93.9,-0.1,61.6,71.5,72.3,44.8,85.5,39.4
+DC0094,Northern Virginia (Data Center Alley) Facility 94,Northern Virginia (Data Center Alley),39.0087,-76.82765,61.0,Colocation,2.0,2013,51.8,65.1,86.1,41.2,99.0,45.2,39.0,65.9
+DC0095,Northern Virginia (Data Center Alley) Facility 95,Northern Virginia (Data Center Alley),38.69239,-77.65422,59.6,Edge,1.34,2020,55.7,42.8,78.1,38.8,23.7,51.2,84.4,51.1
+DC0096,Northern Virginia (Data Center Alley) Facility 96,Northern Virginia (Data Center Alley),39.19369,-77.42951,41.2,Hyperscale,0.71,2014,90.8,76.7,72.5,76.1,67.4,66.4,57.0,55.4
+DC0097,Northern Virginia (Data Center Alley) Facility 97,Northern Virginia (Data Center Alley),38.74337,-77.54008,45.8,Edge,1.09,2012,42.7,8.5,87.3,72.4,61.3,71.1,48.2,44.9
+DC0098,Northern Virginia (Data Center Alley) Facility 98,Northern Virginia (Data Center Alley),38.70043,-77.26414,43.7,Enterprise,1.57,2016,56.9,80.1,46.4,16.8,49.7,86.0,31.0,42.4
+DC0099,Northern Virginia (Data Center Alley) Facility 99,Northern Virginia (Data Center Alley),38.94017,-77.56506,46.6,Hyperscale,1.31,2021,66.7,99.0,43.0,41.4,68.6,87.3,52.1,36.2
+DC0100,Northern Virginia (Data Center Alley) Facility 100,Northern Virginia (Data Center Alley),38.98525,-77.4742,29.2,Colocation,0.71,2016,69.8,65.0,99.0,82.4,79.4,57.9,99.0,53.3
+DC0101,Northern Virginia (Data Center Alley) Facility 101,Northern Virginia (Data Center Alley),38.89675,-77.54895,55.1,Colocation,0.95,2019,51.0,88.9,40.9,32.4,63.8,63.1,59.6,72.8
+DC0102,Northern Virginia (Data Center Alley) Facility 102,Northern Virginia (Data Center Alley),38.55093,-77.38268,38.6,Hyperscale,0.64,2024,45.7,54.0,60.9,51.5,59.8,80.2,99.0,67.0
+DC0103,Northern Virginia (Data Center Alley) Facility 103,Northern Virginia (Data Center Alley),39.03113,-77.47692,58.2,Colocation,1.93,2019,16.8,51.9,68.3,88.0,65.2,88.2,71.4,80.7
+DC0104,Northern Virginia (Data Center Alley) Facility 104,Northern Virginia (Data Center Alley),38.64665,-77.73945,28.7,Enterprise,1.08,2024,54.1,55.6,82.3,57.9,43.8,50.6,49.7,66.2
+DC0105,Northern Virginia (Data Center Alley) Facility 105,Northern Virginia (Data Center Alley),38.91681,-77.48288,46.4,Enterprise,1.31,2013,29.0,21.6,99.0,54.8,65.6,33.4,65.7,48.8
+DC0106,Northern Virginia (Data Center Alley) Facility 106,Northern Virginia (Data Center Alley),38.82198,-77.48079,54.3,Hyperscale,0.95,2022,33.9,79.4,88.7,67.2,83.1,99.0,78.2,65.6
+DC0107,Northern Virginia (Data Center Alley) Facility 107,Northern Virginia (Data Center Alley),38.90216,-76.89341,58.7,Enterprise,1.38,2018,65.6,65.7,60.8,63.8,71.1,53.7,57.0,58.9
+DC0108,Northern Virginia (Data Center Alley) Facility 108,Northern Virginia (Data Center Alley),38.79132,-77.49881,9.9,Enterprise,0.21,2019,82.7,30.0,81.1,85.1,78.4,47.0,31.8,66.7
+DC0109,Northern Virginia (Data Center Alley) Facility 109,Northern Virginia (Data Center Alley),38.90885,-77.3982,58.1,Colocation,2.15,2012,65.4,72.8,54.8,84.5,84.4,61.3,71.8,64.2
+DC0110,Northern Virginia (Data Center Alley) Facility 110,Northern Virginia (Data Center Alley),38.452,-77.31366,54.0,Hyperscale,1.18,2022,47.2,63.3,96.6,69.7,29.0,49.4,30.1,77.0
+DC0111,Northern Virginia (Data Center Alley) Facility 111,Northern Virginia (Data Center Alley),38.9639,-76.85045,47.9,Colocation,0.82,2016,75.8,42.7,41.9,52.6,47.1,65.3,65.4,77.7
+DC0112,Northern Virginia (Data Center Alley) Facility 112,Northern Virginia (Data Center Alley),38.89468,-77.01785,51.3,Colocation,1.86,2022,49.5,22.5,46.6,68.8,45.1,57.3,55.3,72.8
+DC0113,Northern Virginia (Data Center Alley) Facility 113,Northern Virginia (Data Center Alley),38.80142,-77.56533,38.0,Enterprise,0.73,2021,51.4,45.2,80.3,58.0,70.5,69.8,66.6,43.0
+DC0114,Northern Virginia (Data Center Alley) Facility 114,Northern Virginia (Data Center Alley),38.91791,-77.0451,60.9,Hyperscale,1.67,2017,84.1,97.1,67.6,48.4,61.8,83.0,52.2,57.1
+DC0115,Northern Virginia (Data Center Alley) Facility 115,Northern Virginia (Data Center Alley),38.52983,-77.02087,55.3,Colocation,0.95,2019,68.1,76.8,81.4,85.6,51.8,71.2,50.2,70.7
+DC0116,Northern Virginia (Data Center Alley) Facility 116,Northern Virginia (Data Center Alley),38.83999,-77.39463,45.7,Edge,1.65,2020,82.7,63.8,60.8,65.2,99.0,56.1,83.9,63.6
+DC0117,Northern Virginia (Data Center Alley) Facility 117,Northern Virginia (Data Center Alley),38.93658,-77.30075,32.6,Colocation,0.92,2018,56.0,25.8,71.2,71.1,99.0,46.0,99.0,64.2
+DC0118,Northern Virginia (Data Center Alley) Facility 118,Northern Virginia (Data Center Alley),38.93486,-77.30955,46.6,Colocation,1.74,2012,68.8,40.8,73.1,78.8,81.8,43.6,90.6,64.0
+DC0119,Northern Virginia (Data Center Alley) Facility 119,Northern Virginia (Data Center Alley),38.86003,-77.10928,18.3,Colocation,0.27,2022,72.9,48.3,50.7,70.8,65.3,35.5,79.0,72.9
+DC0120,Northern Virginia (Data Center Alley) Facility 120,Northern Virginia (Data Center Alley),39.12532,-77.16251,8.4,Colocation,0.32,2017,48.9,32.2,61.9,69.8,55.3,61.9,68.1,39.7
+DC0121,Phoenix Metro Facility 121,Phoenix Metro,33.38956,-111.70282,34.5,Hyperscale,0.58,2019,45.4,3.4,85.6,70.5,85.3,41.5,65.3,67.6
+DC0122,Phoenix Metro Facility 122,Phoenix Metro,33.17943,-111.89302,35.9,Colocation,0.81,2020,57.9,26.7,99.0,98.2,53.8,74.4,55.7,50.7
+DC0123,Phoenix Metro Facility 123,Phoenix Metro,33.4016,-112.31344,72.2,Enterprise,1.08,2015,99.0,24.7,63.5,71.9,98.6,82.2,33.1,64.6
+DC0124,Phoenix Metro Facility 124,Phoenix Metro,33.46066,-112.09527,40.1,Hyperscale,0.73,2019,68.4,53.2,79.8,42.0,53.3,73.8,77.8,66.7
+DC0125,Phoenix Metro Facility 125,Phoenix Metro,33.32169,-112.04659,34.6,Colocation,0.93,2018,62.8,55.4,81.9,70.9,39.3,39.6,36.6,85.0
+DC0126,Phoenix Metro Facility 126,Phoenix Metro,33.72072,-112.32906,40.7,Enterprise,0.73,2024,82.5,55.7,60.4,58.7,86.3,99.0,53.4,80.5
+DC0127,Phoenix Metro Facility 127,Phoenix Metro,33.19665,-112.24112,23.2,Hyperscale,0.32,2021,68.5,53.6,95.7,70.0,68.8,69.2,34.0,68.6
+DC0128,Phoenix Metro Facility 128,Phoenix Metro,33.76541,-112.08963,38.4,Hyperscale,0.73,2020,57.9,29.4,59.3,59.7,84.9,43.0,49.9,67.9
+DC0129,Phoenix Metro Facility 129,Phoenix Metro,33.35559,-111.96234,21.7,Hyperscale,0.34,2021,44.1,44.6,38.6,88.6,55.6,63.9,82.3,54.5
+DC0130,Phoenix Metro Facility 130,Phoenix Metro,33.57834,-112.01838,41.4,Enterprise,0.98,2015,62.4,36.7,49.5,51.8,51.4,56.5,70.4,52.1
+DC0131,Phoenix Metro Facility 131,Phoenix Metro,33.55676,-112.1381,42.3,Enterprise,1.03,2022,73.8,67.5,60.2,54.1,64.1,60.2,69.1,86.6
+DC0132,Phoenix Metro Facility 132,Phoenix Metro,33.2248,-112.34313,27.1,Colocation,0.63,2016,69.2,45.0,52.6,53.2,30.1,82.9,22.4,71.4
+DC0133,Phoenix Metro Facility 133,Phoenix Metro,33.21952,-111.68395,10.3,Edge,0.22,2021,52.4,47.6,52.4,99.0,62.6,80.0,89.6,66.9
+DC0134,Phoenix Metro Facility 134,Phoenix Metro,33.75536,-111.8562,37.6,Colocation,1.28,2007,46.5,53.4,55.2,60.1,60.2,61.6,72.7,72.4
+DC0135,Phoenix Metro Facility 135,Phoenix Metro,33.5054,-112.44624,20.1,Enterprise,0.34,2024,65.6,65.9,58.7,96.5,49.8,88.2,36.8,59.3
+DC0136,Phoenix Metro Facility 136,Phoenix Metro,33.58379,-112.35346,39.3,Hyperscale,0.8,2023,62.0,63.4,84.1,45.2,37.9,36.2,90.0,68.8
+DC0137,Phoenix Metro Facility 137,Phoenix Metro,33.48525,-112.28524,43.4,Enterprise,1.31,2015,48.5,48.9,89.9,64.6,54.8,48.6,45.4,81.2
+DC0138,Phoenix Metro Facility 138,Phoenix Metro,33.14353,-111.71348,58.9,Hyperscale,1.8,2023,98.1,38.1,93.9,60.5,74.0,92.4,62.1,60.0
+DC0139,Phoenix Metro Facility 139,Phoenix Metro,33.11864,-112.35151,29.7,Enterprise,0.52,2011,82.4,35.6,89.2,73.1,49.5,52.2,38.6,57.1
+DC0140,Phoenix Metro Facility 140,Phoenix Metro,33.4547,-112.38556,45.7,Hyperscale,1.07,2018,63.2,36.6,67.8,79.7,57.5,77.5,49.5,78.6
+DC0141,Phoenix Metro Facility 141,Phoenix Metro,33.27434,-111.8382,25.4,Edge,0.78,2021,70.2,88.7,99.0,60.8,52.8,59.3,76.2,83.2
+DC0142,Phoenix Metro Facility 142,Phoenix Metro,33.92383,-111.93634,17.8,Colocation,0.26,2020,56.2,65.4,66.2,82.6,95.4,59.4,33.2,75.0
+DC0143,Phoenix Metro Facility 143,Phoenix Metro,33.65687,-112.2247,37.5,Colocation,1.17,2016,53.0,54.9,82.8,76.1,60.0,52.7,9.8,74.4
+DC0144,Phoenix Metro Facility 144,Phoenix Metro,33.76874,-111.96006,45.1,Hyperscale,1.42,2020,63.4,88.1,75.8,59.4,85.7,87.3,60.7,81.3
+DC0145,Phoenix Metro Facility 145,Phoenix Metro,33.31912,-112.12445,37.0,Colocation,0.67,2022,58.0,61.0,78.9,85.9,75.9,57.6,85.7,62.9
+DC0146,Phoenix Metro Facility 146,Phoenix Metro,33.56172,-111.89033,46.2,Enterprise,1.41,2022,57.8,46.7,99.0,55.4,90.7,41.5,74.2,68.8
+DC0147,Phoenix Metro Facility 147,Phoenix Metro,33.43737,-112.43541,43.7,Colocation,0.78,2023,97.2,44.7,51.8,67.9,98.9,46.6,15.7,65.4
+DC0148,Phoenix Metro Facility 148,Phoenix Metro,33.48738,-111.97174,35.2,Edge,1.36,2019,85.1,37.5,83.9,49.5,59.0,79.3,42.3,67.1
+DC0149,Phoenix Metro Facility 149,Phoenix Metro,33.4551,-112.06345,50.5,Colocation,0.71,2016,89.9,67.3,55.6,99.0,76.7,27.0,81.3,56.6
+DC0150,Phoenix Metro Facility 150,Phoenix Metro,33.35711,-112.29935,55.0,Hyperscale,1.77,2017,71.5,78.0,58.7,37.3,95.4,87.5,63.2,76.5
+DC0151,Phoenix Metro Facility 151,Phoenix Metro,33.71046,-112.02676,51.7,Colocation,1.88,2016,61.4,59.7,66.0,63.6,70.1,40.1,60.1,69.0
+DC0152,Phoenix Metro Facility 152,Phoenix Metro,33.1826,-111.91305,38.6,Edge,1.32,2017,99.0,34.4,78.0,82.8,21.0,72.5,81.6,72.8
+DC0153,Phoenix Metro Facility 153,Phoenix Metro,33.35689,-111.75994,68.6,Edge,2.48,2021,66.5,64.5,71.7,36.4,66.5,56.9,51.5,99.0
+DC0154,Phoenix Metro Facility 154,Phoenix Metro,33.38469,-112.44,14.6,Hyperscale,0.48,2012,90.5,34.8,74.8,99.0,29.3,65.8,67.2,46.8
+DC0155,Phoenix Metro Facility 155,Phoenix Metro,33.208,-112.2721,24.6,Hyperscale,0.35,2024,74.8,80.1,95.7,65.2,99.0,23.1,71.6,44.8
+DC0156,Phoenix Metro Facility 156,Phoenix Metro,33.3118,-112.49541,21.9,Hyperscale,0.68,2024,69.6,47.4,77.7,67.7,44.1,49.0,99.0,70.8
+DC0157,Phoenix Metro Facility 157,Phoenix Metro,33.62718,-112.11708,37.3,Hyperscale,1.09,2024,37.4,68.8,65.1,70.3,80.3,87.9,48.6,64.2
+DC0158,Phoenix Metro Facility 158,Phoenix Metro,33.57147,-111.81324,59.6,Hyperscale,1.59,2014,58.2,69.7,64.4,70.8,56.3,62.1,97.3,98.1
+DC0159,Phoenix Metro Facility 159,Phoenix Metro,33.33783,-112.1922,29.5,Edge,0.43,2023,74.8,55.8,39.9,55.0,59.5,49.9,53.3,86.7
+DC0160,Phoenix Metro Facility 160,Phoenix Metro,33.66402,-112.15215,22.4,Enterprise,0.74,2014,68.5,60.2,56.5,93.8,57.6,53.8,34.8,63.7
+DC0161,Phoenix Metro Facility 161,Phoenix Metro,33.3506,-111.93076,40.7,Colocation,1.17,2012,58.1,91.5,99.0,45.5,37.6,58.7,49.4,67.6
+DC0162,Phoenix Metro Facility 162,Phoenix Metro,33.17717,-112.14976,45.8,Enterprise,0.76,2024,62.1,63.4,86.9,48.9,84.1,49.7,99.0,87.3
+DC0163,Phoenix Metro Facility 163,Phoenix Metro,33.50146,-111.99642,46.8,Colocation,0.72,2018,66.0,38.5,47.8,87.7,61.6,82.8,99.0,53.8
+DC0164,Phoenix Metro Facility 164,Phoenix Metro,33.81184,-111.8755,25.4,Hyperscale,0.66,2015,45.9,61.7,89.2,51.4,63.0,91.6,33.9,67.9
+DC0165,Phoenix Metro Facility 165,Phoenix Metro,33.35683,-112.02077,37.8,Colocation,0.97,2022,58.3,60.3,81.4,74.6,40.0,54.2,92.0,69.2
+DC0166,Phoenix Metro Facility 166,Phoenix Metro,33.66391,-111.77875,22.9,Hyperscale,0.64,2023,83.1,62.8,83.2,62.3,45.4,79.5,86.3,51.8
+DC0167,Phoenix Metro Facility 167,Phoenix Metro,33.55632,-111.82609,48.9,Enterprise,1.54,2020,57.6,54.5,97.8,81.5,33.1,62.4,60.2,48.2
+DC0168,Phoenix Metro Facility 168,Phoenix Metro,33.54131,-112.21282,44.4,Enterprise,1.61,2008,66.1,52.0,62.1,62.1,94.6,57.0,65.8,63.8
+DC0169,Phoenix Metro Facility 169,Phoenix Metro,33.41992,-112.03772,54.0,Enterprise,0.94,2022,58.9,59.4,69.8,71.8,43.3,60.1,79.3,62.1
+DC0170,Phoenix Metro Facility 170,Phoenix Metro,33.30295,-112.11966,38.0,Colocation,0.79,2024,70.9,61.1,76.1,81.4,58.4,46.0,41.7,78.8
+DC0171,Phoenix Metro Facility 171,Phoenix Metro,33.20523,-111.90582,46.6,Hyperscale,1.57,2021,81.9,70.8,83.2,67.0,48.5,44.6,44.2,81.6
+DC0172,Phoenix Metro Facility 172,Phoenix Metro,33.83939,-111.95164,38.6,Colocation,0.85,2023,59.1,78.9,65.2,56.7,38.2,52.5,91.8,49.4
+DC0173,Phoenix Metro Facility 173,Phoenix Metro,33.36964,-112.0273,52.3,Colocation,0.78,2017,99.0,41.0,82.1,67.3,55.2,38.8,63.0,48.4
+DC0174,Phoenix Metro Facility 174,Phoenix Metro,33.26523,-112.17563,39.7,Edge,1.43,2024,37.7,60.2,57.2,99.0,84.2,98.2,51.9,66.5
+DC0175,Phoenix Metro Facility 175,Phoenix Metro,33.34939,-111.98701,58.8,Colocation,1.83,2016,20.8,52.2,70.4,73.3,61.3,65.6,13.3,68.2
+DC0176,Dallas/Fort Worth Facility 176,Dallas/Fort Worth,32.88816,-97.31057,30.0,Enterprise,1.02,2015,73.7,82.0,74.6,67.1,86.0,16.6,54.6,51.0
+DC0177,Dallas/Fort Worth Facility 177,Dallas/Fort Worth,32.94388,-97.1641,17.7,Hyperscale,0.67,2018,64.4,11.3,91.8,64.8,68.7,68.2,88.4,35.7
+DC0178,Dallas/Fort Worth Facility 178,Dallas/Fort Worth,33.05704,-97.06521,39.1,Colocation,1.17,2016,67.0,78.2,66.2,50.7,48.4,55.8,50.7,59.6
+DC0179,Dallas/Fort Worth Facility 179,Dallas/Fort Worth,32.89179,-96.98647,29.3,Hyperscale,0.55,2020,92.1,43.3,59.2,78.9,57.9,37.1,63.2,60.4
+DC0180,Dallas/Fort Worth Facility 180,Dallas/Fort Worth,32.96337,-96.83089,28.2,Edge,0.72,2015,82.6,35.8,85.7,67.8,37.3,37.5,99.0,59.5
+DC0181,Dallas/Fort Worth Facility 181,Dallas/Fort Worth,32.96169,-96.93951,38.4,Colocation,1.27,2013,81.9,21.1,99.0,87.6,56.1,57.6,78.4,71.2
+DC0182,Dallas/Fort Worth Facility 182,Dallas/Fort Worth,32.98059,-96.76518,37.5,Hyperscale,0.97,2013,68.3,55.5,78.1,34.9,53.5,30.8,75.9,52.3
+DC0183,Dallas/Fort Worth Facility 183,Dallas/Fort Worth,32.77825,-96.64379,31.6,Colocation,0.47,2016,36.7,39.4,70.7,65.6,35.9,29.6,65.8,53.6
+DC0184,Dallas/Fort Worth Facility 184,Dallas/Fort Worth,32.64246,-97.17961,43.2,Hyperscale,1.08,2011,60.4,52.1,75.7,86.7,64.9,57.3,64.9,57.0
+DC0185,Dallas/Fort Worth Facility 185,Dallas/Fort Worth,32.81858,-97.57325,14.3,Enterprise,0.45,2021,35.4,77.1,84.3,99.0,99.0,40.2,58.0,96.9
+DC0186,Dallas/Fort Worth Facility 186,Dallas/Fort Worth,33.03687,-97.04532,25.6,Hyperscale,0.41,2024,64.3,60.1,40.6,72.8,99.0,89.4,52.8,56.2
+DC0187,Dallas/Fort Worth Facility 187,Dallas/Fort Worth,32.89935,-97.29484,48.8,Hyperscale,1.36,2017,44.6,38.2,33.6,68.1,94.9,70.8,90.4,76.8
+DC0188,Dallas/Fort Worth Facility 188,Dallas/Fort Worth,33.05793,-97.23279,32.4,Hyperscale,0.72,2011,55.2,40.1,55.0,35.4,62.4,5.6,75.6,62.8
+DC0189,Dallas/Fort Worth Facility 189,Dallas/Fort Worth,32.71971,-97.10184,52.1,Hyperscale,1.78,2014,73.5,76.4,71.6,99.0,75.4,48.6,59.9,30.1
+DC0190,Dallas/Fort Worth Facility 190,Dallas/Fort Worth,33.01535,-96.97939,23.1,Hyperscale,0.73,2023,48.8,47.6,77.8,54.7,34.3,25.9,53.1,89.1
+DC0191,Dallas/Fort Worth Facility 191,Dallas/Fort Worth,32.91073,-97.18233,39.8,Enterprise,1.27,2017,69.9,74.0,51.8,38.3,34.8,61.8,26.5,47.7
+DC0192,Dallas/Fort Worth Facility 192,Dallas/Fort Worth,32.97083,-97.0148,42.6,Colocation,1.48,2020,54.4,28.8,29.8,75.5,62.7,79.3,43.3,72.4
+DC0193,Dallas/Fort Worth Facility 193,Dallas/Fort Worth,33.21247,-96.99646,24.7,Hyperscale,0.89,2024,92.5,60.5,57.0,72.7,47.2,47.2,77.4,59.8
+DC0194,Dallas/Fort Worth Facility 194,Dallas/Fort Worth,32.8129,-97.26695,26.1,Enterprise,0.88,2019,86.7,46.4,61.9,58.4,37.1,80.0,99.0,56.4
+DC0195,Dallas/Fort Worth Facility 195,Dallas/Fort Worth,33.21096,-96.94401,32.4,Enterprise,0.6,2011,52.8,40.3,55.8,99.0,45.9,52.0,40.8,65.9
+DC0196,Dallas/Fort Worth Facility 196,Dallas/Fort Worth,32.92161,-96.79997,30.8,Enterprise,0.99,2018,63.8,32.5,51.9,99.0,62.4,65.7,66.4,81.3
+DC0197,Dallas/Fort Worth Facility 197,Dallas/Fort Worth,32.67936,-97.36216,34.5,Enterprise,0.85,2019,46.2,47.3,65.0,35.3,41.5,84.6,78.8,74.9
+DC0198,Dallas/Fort Worth Facility 198,Dallas/Fort Worth,33.08848,-97.39925,25.6,Edge,0.73,2015,54.4,45.9,35.8,88.4,85.8,85.4,94.9,67.7
+DC0199,Dallas/Fort Worth Facility 199,Dallas/Fort Worth,33.16578,-96.73638,25.0,Edge,0.8,2014,93.0,51.2,36.2,87.0,22.0,67.1,82.6,66.3
+DC0200,Dallas/Fort Worth Facility 200,Dallas/Fort Worth,32.97124,-96.96876,28.7,Hyperscale,0.75,2022,99.0,15.9,66.5,70.1,32.1,40.6,48.3,46.4
+DC0201,Dallas/Fort Worth Facility 201,Dallas/Fort Worth,33.03891,-97.66668,44.9,Colocation,0.78,2024,63.1,43.2,73.7,82.7,74.5,55.5,69.8,76.2
+DC0202,Dallas/Fort Worth Facility 202,Dallas/Fort Worth,32.58685,-96.8624,18.0,Enterprise,0.39,2013,73.0,92.4,85.7,99.0,6.9,65.6,58.2,60.0
+DC0203,Dallas/Fort Worth Facility 203,Dallas/Fort Worth,32.89155,-96.93505,32.9,Enterprise,0.72,2018,50.5,63.2,35.4,77.8,44.7,53.7,72.7,62.9
+DC0204,Dallas/Fort Worth Facility 204,Dallas/Fort Worth,32.66906,-96.89724,16.4,Hyperscale,0.52,2014,84.0,35.9,66.5,87.5,69.6,72.2,85.5,56.1
+DC0205,Dallas/Fort Worth Facility 205,Dallas/Fort Worth,32.84211,-96.58312,36.3,Enterprise,1.03,2015,53.9,66.8,65.3,92.2,69.8,51.2,70.8,49.1
+DC0206,Dallas/Fort Worth Facility 206,Dallas/Fort Worth,32.97741,-97.11191,25.8,Colocation,0.38,2023,82.0,27.3,90.0,76.2,58.1,79.0,74.1,80.4
+DC0207,Dallas/Fort Worth Facility 207,Dallas/Fort Worth,33.03188,-97.05776,32.9,Hyperscale,0.47,2024,88.8,62.3,52.3,58.9,60.1,85.3,55.7,56.5
+DC0208,Dallas/Fort Worth Facility 208,Dallas/Fort Worth,32.54032,-97.00934,37.1,Colocation,1.33,2019,98.3,53.2,56.6,85.3,60.5,35.9,84.2,51.3
+DC0209,Dallas/Fort Worth Facility 209,Dallas/Fort Worth,33.27591,-97.07071,44.4,Enterprise,0.82,2024,65.8,53.9,72.1,25.9,54.3,86.2,88.4,47.9
+DC0210,Dallas/Fort Worth Facility 210,Dallas/Fort Worth,32.71282,-96.97915,24.7,Enterprise,0.61,2014,81.6,40.0,61.3,63.3,64.1,83.7,69.4,60.0
+DC0211,Dallas/Fort Worth Facility 211,Dallas/Fort Worth,33.05661,-96.93095,33.7,Colocation,0.88,2022,82.4,39.2,66.6,89.7,73.3,54.4,35.7,66.1
+DC0212,Dallas/Fort Worth Facility 212,Dallas/Fort Worth,32.96569,-97.13876,32.8,Enterprise,1.23,2021,36.6,51.0,89.2,81.7,17.2,67.7,58.3,43.9
+DC0213,Dallas/Fort Worth Facility 213,Dallas/Fort Worth,33.01497,-97.29146,50.3,Enterprise,0.8,2024,71.0,45.4,59.3,72.2,47.9,65.6,53.1,54.2
+DC0214,Dallas/Fort Worth Facility 214,Dallas/Fort Worth,32.69366,-96.81887,29.2,Colocation,0.98,2021,82.9,77.1,37.2,84.7,92.5,94.8,74.3,46.9
+DC0215,Dallas/Fort Worth Facility 215,Dallas/Fort Worth,32.85605,-96.8279,45.3,Enterprise,1.56,2022,76.3,37.9,61.8,77.4,44.0,40.8,73.2,87.9
+DC0216,Dallas/Fort Worth Facility 216,Dallas/Fort Worth,32.67903,-96.75625,29.1,Colocation,0.47,2005,87.4,69.4,85.6,82.5,71.6,81.7,38.4,64.5
+DC0217,Dallas/Fort Worth Facility 217,Dallas/Fort Worth,32.70267,-97.35681,49.9,Colocation,1.16,2016,63.5,56.8,59.7,80.2,43.7,53.0,52.0,73.8
+DC0218,Dallas/Fort Worth Facility 218,Dallas/Fort Worth,32.74755,-97.32449,25.3,Colocation,0.38,2020,64.8,46.0,61.3,69.8,97.4,39.0,77.2,68.4
+DC0219,Dallas/Fort Worth Facility 219,Dallas/Fort Worth,32.77613,-96.54446,43.0,Colocation,1.15,2007,49.1,84.6,77.7,59.6,20.8,68.3,63.5,47.3
+DC0220,Dallas/Fort Worth Facility 220,Dallas/Fort Worth,32.84153,-97.29448,14.8,Colocation,0.35,2019,46.2,72.6,32.8,76.0,57.6,73.6,58.8,65.9
+DC0221,Dallas/Fort Worth Facility 221,Dallas/Fort Worth,33.14917,-96.91594,38.7,Hyperscale,1.48,2015,51.6,54.3,76.8,72.8,70.1,45.1,53.2,53.7
+DC0222,Dallas/Fort Worth Facility 222,Dallas/Fort Worth,33.05361,-97.09559,36.4,Hyperscale,1.36,2023,60.0,82.4,61.6,46.9,73.6,90.6,40.4,89.4
+DC0223,Dallas/Fort Worth Facility 223,Dallas/Fort Worth,32.76429,-97.10175,13.0,Colocation,0.27,2022,72.5,75.9,94.4,89.2,59.3,88.1,69.2,77.0
+DC0224,Chicago Facility 224,Chicago,41.8623,-88.52066,31.9,Enterprise,0.93,2016,91.6,37.7,83.3,66.9,65.6,67.1,66.9,87.8
+DC0225,Chicago Facility 225,Chicago,41.70315,-88.14942,33.4,Colocation,0.6,2021,45.4,25.1,34.2,91.9,45.6,67.2,63.0,54.1
+DC0226,Chicago Facility 226,Chicago,41.7057,-88.0647,18.8,Edge,0.37,2019,85.3,57.0,64.7,75.2,78.5,45.4,81.8,86.8
+DC0227,Chicago Facility 227,Chicago,41.9203,-87.79989,29.2,Colocation,1.11,2022,44.3,65.1,63.5,84.5,35.8,97.2,34.6,63.1
+DC0228,Chicago Facility 228,Chicago,41.80271,-88.16247,31.9,Colocation,0.6,2018,77.8,45.8,53.8,74.9,64.3,64.7,81.5,61.0
+DC0229,Chicago Facility 229,Chicago,41.6561,-88.25244,21.0,Colocation,0.73,2020,75.8,49.4,53.7,64.8,51.6,55.6,87.3,62.9
+DC0230,Chicago Facility 230,Chicago,42.04109,-88.04731,20.3,Colocation,0.51,2014,58.1,60.1,70.9,46.8,56.0,57.8,61.9,76.7
+DC0231,Chicago Facility 231,Chicago,41.99408,-88.00896,26.2,Colocation,0.36,2020,72.5,84.1,68.8,99.0,52.5,49.2,75.6,85.6
+DC0232,Chicago Facility 232,Chicago,41.85663,-88.43813,30.6,Colocation,0.72,2019,45.2,55.6,58.0,73.4,62.8,91.5,63.1,85.7
+DC0233,Chicago Facility 233,Chicago,41.73534,-87.73939,44.4,Edge,1.39,2013,64.3,78.0,73.1,99.0,30.1,41.3,99.0,56.2
+DC0234,Chicago Facility 234,Chicago,41.78035,-88.03341,22.8,Hyperscale,0.65,2011,57.9,42.0,89.7,45.4,63.1,59.3,84.9,58.6
+DC0235,Chicago Facility 235,Chicago,41.7753,-88.32325,21.6,Colocation,0.32,2010,77.5,36.1,99.0,65.7,62.8,97.7,54.1,89.8
+DC0236,Chicago Facility 236,Chicago,41.65969,-88.2368,34.9,Enterprise,0.95,2020,62.6,72.9,58.7,43.4,71.7,77.4,40.2,62.2
+DC0237,Chicago Facility 237,Chicago,41.52113,-88.01771,40.0,Enterprise,1.57,2020,91.6,71.5,61.9,58.5,99.0,35.7,64.1,46.0
+DC0238,Chicago Facility 238,Chicago,41.66226,-88.15731,44.9,Colocation,0.66,2024,93.7,59.4,72.2,99.0,49.5,99.0,57.8,63.2
+DC0239,Chicago Facility 239,Chicago,41.97698,-88.30255,29.7,Colocation,0.47,2021,99.0,56.3,44.3,76.1,58.8,71.9,62.7,97.5
+DC0240,Chicago Facility 240,Chicago,41.62553,-87.81092,16.1,Edge,0.55,2016,80.0,38.0,71.2,54.5,57.2,46.4,99.0,56.8
+DC0241,Chicago Facility 241,Chicago,41.68338,-88.16961,39.9,Colocation,1.07,2011,82.4,53.0,48.1,74.5,71.4,75.8,15.4,49.2
+DC0242,Chicago Facility 242,Chicago,41.90551,-88.21604,31.5,Enterprise,1.1,2021,87.2,41.0,72.7,45.3,78.7,83.2,79.1,81.0
+DC0243,Chicago Facility 243,Chicago,41.73852,-88.39287,10.0,Colocation,0.24,2020,98.2,36.0,54.8,88.5,87.5,51.1,51.1,57.4
+DC0244,Chicago Facility 244,Chicago,41.97144,-87.91601,28.3,Edge,0.74,2022,41.1,34.1,46.5,64.6,68.6,73.3,55.5,59.7
+DC0245,Chicago Facility 245,Chicago,41.89473,-88.12176,37.0,Enterprise,1.33,2022,72.2,29.6,86.3,96.2,48.8,56.6,88.8,64.8
+DC0246,Chicago Facility 246,Chicago,41.82775,-88.21157,25.7,Hyperscale,0.61,2021,80.6,57.7,97.0,80.3,74.6,75.9,54.7,60.0
+DC0247,Chicago Facility 247,Chicago,41.88507,-88.10201,38.6,Enterprise,0.64,2023,83.8,62.0,47.8,99.0,84.1,65.4,60.0,69.3
+DC0248,Chicago Facility 248,Chicago,41.96545,-87.55773,25.1,Hyperscale,0.83,2019,79.3,18.8,99.0,54.7,62.6,65.3,99.0,65.3
+DC0249,Chicago Facility 249,Chicago,41.68828,-88.16715,22.0,Hyperscale,0.3,2024,98.6,67.6,51.7,73.2,60.0,42.9,72.0,66.8
+DC0250,Chicago Facility 250,Chicago,41.84635,-87.98829,28.5,Colocation,0.7,2019,80.0,63.4,57.3,85.9,48.9,2.6,67.6,58.7
+DC0251,Chicago Facility 251,Chicago,41.71092,-88.1317,16.1,Enterprise,0.48,2014,76.9,99.0,99.0,67.2,44.4,76.3,58.2,72.0
+DC0252,Chicago Facility 252,Chicago,41.98799,-88.25151,27.4,Hyperscale,1.08,2021,58.1,64.5,54.4,94.2,49.6,77.8,41.2,77.4
+DC0253,Chicago Facility 253,Chicago,41.76959,-88.16654,24.2,Edge,0.64,2022,52.6,64.7,87.4,66.5,40.0,74.5,49.2,60.8
+DC0254,Chicago Facility 254,Chicago,41.91067,-88.43755,36.9,Colocation,1.09,2018,74.8,86.7,69.5,71.0,78.8,65.6,77.3,81.6
+DC0255,Chicago Facility 255,Chicago,41.63396,-88.14945,16.5,Enterprise,0.58,2021,64.1,-6.0,54.3,94.7,61.9,57.8,87.4,65.1
+DC0256,Chicago Facility 256,Chicago,41.55564,-88.10658,26.3,Hyperscale,0.68,2016,32.3,29.4,76.5,69.2,94.6,49.9,59.3,54.1
+DC0257,Chicago Facility 257,Chicago,41.78168,-88.0138,13.5,Hyperscale,0.18,2024,60.6,21.7,62.1,69.5,59.6,99.0,99.0,56.0
+DC0258,Chicago Facility 258,Chicago,41.913,-88.3187,27.7,Colocation,0.76,2022,33.2,57.5,75.8,53.3,44.8,96.3,60.3,75.8
+DC0259,Chicago Facility 259,Chicago,41.87509,-88.30532,23.7,Colocation,0.77,2018,53.3,58.4,62.9,57.0,88.0,36.8,70.9,61.5
+DC0260,Chicago Facility 260,Chicago,41.72074,-88.29246,5.7,Enterprise,0.19,2024,77.5,52.7,84.6,51.7,88.1,64.0,40.0,76.0
+DC0261,Chicago Facility 261,Chicago,41.75957,-87.87122,22.1,Enterprise,0.44,2009,66.4,25.3,75.0,90.6,90.8,57.0,68.0,67.2
+DC0262,Chicago Facility 262,Chicago,42.20868,-88.11944,37.0,Enterprise,1.11,2023,96.8,43.3,60.6,53.8,30.7,69.6,95.6,63.7
+DC0263,Chicago Facility 263,Chicago,42.11431,-87.75647,28.3,Enterprise,0.48,2019,54.1,63.2,79.6,67.4,93.5,48.4,59.7,70.6
+DC0264,Chicago Facility 264,Chicago,41.74438,-88.15038,28.9,Enterprise,0.44,2011,77.1,60.4,46.0,99.0,57.4,66.8,76.9,57.6
+DC0265,Chicago Facility 265,Chicago,41.63752,-88.31376,39.8,Hyperscale,1.21,2014,71.0,46.0,76.5,65.0,68.5,43.7,49.5,47.4
+DC0266,Atlanta Facility 266,Atlanta,33.63176,-84.32784,18.8,Hyperscale,0.62,2007,59.2,9.7,63.9,60.1,66.3,65.9,89.4,99.0
+DC0267,Atlanta Facility 267,Atlanta,33.92929,-84.55649,12.6,Hyperscale,0.23,2020,92.5,52.1,60.5,88.2,25.9,58.7,61.0,76.6
+DC0268,Atlanta Facility 268,Atlanta,34.02024,-84.24883,35.7,Hyperscale,0.97,2024,83.0,46.3,61.9,79.7,45.4,89.1,77.1,70.8
+DC0269,Atlanta Facility 269,Atlanta,33.63417,-84.18588,25.5,Enterprise,0.73,2022,79.0,51.9,58.1,62.3,74.0,69.0,57.5,78.9
+DC0270,Atlanta Facility 270,Atlanta,33.79835,-84.57782,28.1,Edge,0.62,2015,68.9,47.3,74.0,50.5,25.8,64.9,53.0,64.8
+DC0271,Atlanta Facility 271,Atlanta,33.56193,-84.8226,43.0,Hyperscale,1.63,2013,54.6,85.4,57.5,62.2,71.3,37.4,38.0,73.7
+DC0272,Atlanta Facility 272,Atlanta,33.55142,-84.3437,23.6,Hyperscale,0.71,2022,64.0,43.2,80.3,54.6,56.9,47.0,71.3,87.0
+DC0273,Atlanta Facility 273,Atlanta,33.71992,-84.32783,22.8,Enterprise,0.8,2021,38.5,63.5,84.8,62.4,38.1,73.4,84.6,80.9
+DC0274,Atlanta Facility 274,Atlanta,34.03932,-84.61854,29.4,Edge,0.81,2023,78.6,63.2,53.2,88.1,80.8,42.2,72.4,77.5
+DC0275,Atlanta Facility 275,Atlanta,33.82194,-84.5333,20.4,Enterprise,0.54,2021,87.9,59.7,54.0,60.8,40.8,63.9,60.8,98.4
+DC0276,Atlanta Facility 276,Atlanta,33.85555,-83.88391,34.4,Hyperscale,0.91,2020,88.1,80.6,77.9,63.5,56.9,61.3,69.1,73.8
+DC0277,Atlanta Facility 277,Atlanta,33.8856,-84.30615,36.3,Colocation,0.63,2006,72.0,55.4,58.7,42.9,91.2,99.0,88.3,50.8
+DC0278,Atlanta Facility 278,Atlanta,33.87117,-84.20774,16.9,Hyperscale,0.66,2018,86.2,81.7,62.1,80.6,52.9,95.5,72.5,55.6
+DC0279,Atlanta Facility 279,Atlanta,33.64551,-84.26051,39.6,Hyperscale,1.16,2018,84.1,82.4,73.0,80.4,61.4,42.3,62.6,75.7
+DC0280,Atlanta Facility 280,Atlanta,33.82104,-84.32884,37.7,Enterprise,0.5,2008,69.7,77.2,62.3,64.3,81.2,69.4,57.7,82.9
+DC0281,Atlanta Facility 281,Atlanta,33.60872,-84.24738,23.9,Hyperscale,0.52,2017,59.6,46.7,18.5,59.7,91.8,23.5,47.4,74.5
+DC0282,Atlanta Facility 282,Atlanta,33.82552,-84.56978,6.7,Enterprise,0.21,2020,31.6,51.0,89.9,99.0,69.3,46.4,47.3,70.4
+DC0283,Atlanta Facility 283,Atlanta,33.49469,-84.77738,11.7,Hyperscale,0.4,2020,77.1,98.4,86.9,72.5,55.6,99.0,77.4,59.0
+DC0284,Atlanta Facility 284,Atlanta,33.97727,-83.90286,22.4,Colocation,0.33,2020,68.0,43.7,26.1,77.1,99.0,32.3,66.6,58.5
+DC0285,Atlanta Facility 285,Atlanta,34.12107,-84.12416,34.0,Enterprise,0.69,2019,81.4,57.8,44.9,51.2,44.7,91.8,90.1,64.0
+DC0286,Atlanta Facility 286,Atlanta,33.85665,-84.1445,19.3,Enterprise,0.61,2019,94.1,57.7,63.5,71.9,69.2,53.9,65.9,79.4
+DC0287,Atlanta Facility 287,Atlanta,33.5445,-84.43261,18.7,Hyperscale,0.29,2020,74.3,62.1,78.3,84.1,61.6,55.5,69.1,46.1
+DC0288,Atlanta Facility 288,Atlanta,33.41402,-84.34823,30.0,Colocation,0.73,2022,68.2,11.8,39.2,34.3,86.0,65.2,41.5,75.3
+DC0289,Atlanta Facility 289,Atlanta,33.70923,-84.60108,21.7,Colocation,0.61,2015,89.8,71.4,66.0,75.4,82.8,55.6,66.1,64.8
+DC0290,Atlanta Facility 290,Atlanta,33.94597,-84.70038,14.7,Hyperscale,0.2,2022,43.0,79.5,99.0,53.3,84.1,48.1,68.0,89.5
+DC0291,Atlanta Facility 291,Atlanta,33.77536,-84.77906,27.8,Colocation,0.56,2022,62.6,60.9,37.0,57.5,21.0,73.5,81.3,65.3
+DC0292,Atlanta Facility 292,Atlanta,33.72343,-84.47114,28.5,Colocation,0.98,2019,77.1,54.7,82.7,73.4,19.3,83.8,58.1,50.6
+DC0293,Atlanta Facility 293,Atlanta,33.74505,-84.0001,39.5,Hyperscale,1.31,2020,64.1,23.2,46.9,73.7,67.9,71.1,65.6,58.7
+DC0294,Atlanta Facility 294,Atlanta,33.66772,-84.30303,20.0,Edge,0.61,2010,71.0,52.5,40.1,55.4,82.5,96.7,77.9,90.0
+DC0295,Atlanta Facility 295,Atlanta,33.73197,-84.43481,17.3,Hyperscale,0.64,2016,73.5,96.0,99.0,36.1,67.8,66.7,57.5,75.3
+DC0296,Atlanta Facility 296,Atlanta,33.60116,-84.45684,38.7,Hyperscale,1.3,2019,72.7,46.5,68.9,94.9,67.0,77.5,60.3,74.7
+DC0297,Atlanta Facility 297,Atlanta,33.31364,-84.19551,31.4,Enterprise,0.43,2024,50.2,51.2,67.6,45.3,44.7,71.2,68.0,79.7
+DC0298,Atlanta Facility 298,Atlanta,33.69936,-84.23547,25.8,Colocation,0.38,2016,61.2,62.4,57.3,84.9,89.2,74.6,85.7,68.9
+DC0299,Atlanta Facility 299,Atlanta,33.89297,-84.66594,27.6,Edge,0.7,2020,86.5,62.7,51.0,75.7,41.1,99.0,59.2,77.4
+DC0300,Atlanta Facility 300,Atlanta,33.50582,-84.56785,22.2,Hyperscale,0.38,2016,71.8,36.5,35.2,85.8,97.0,50.3,34.0,63.8
+DC0301,Atlanta Facility 301,Atlanta,33.7861,-84.1373,16.1,Enterprise,0.58,2010,55.1,48.2,80.4,69.8,44.7,76.7,78.2,63.7
+DC0302,Atlanta Facility 302,Atlanta,33.7611,-84.30651,40.9,Colocation,0.62,2019,74.5,71.6,77.1,71.6,94.5,76.6,57.0,62.2
+DC0303,Atlanta Facility 303,Atlanta,33.82858,-84.19113,5.0,Colocation,0.15,2010,62.0,73.8,58.2,62.3,86.2,68.8,88.3,79.6
+DC0304,Silicon Valley Facility 304,Silicon Valley,37.21825,-121.74261,30.6,Hyperscale,0.77,2022,23.8,36.2,81.8,42.3,67.3,59.3,27.9,44.4
+DC0305,Silicon Valley Facility 305,Silicon Valley,37.28373,-122.22582,24.9,Colocation,0.82,2015,29.9,14.9,64.2,28.1,43.3,99.0,73.6,30.4
+DC0306,Silicon Valley Facility 306,Silicon Valley,37.2284,-122.1293,35.4,Edge,0.88,2021,70.3,18.4,54.0,43.8,63.7,87.5,42.2,13.9
+DC0307,Silicon Valley Facility 307,Silicon Valley,37.55896,-122.06712,28.1,Enterprise,0.45,2022,64.6,69.3,28.1,76.0,63.1,44.4,34.7,56.6
+DC0308,Silicon Valley Facility 308,Silicon Valley,37.97476,-121.76192,24.0,Hyperscale,0.93,2019,48.2,43.3,52.8,50.7,4.1,55.5,88.5,30.3
+DC0309,Silicon Valley Facility 309,Silicon Valley,37.56546,-122.19699,49.7,Colocation,1.69,2023,17.6,47.0,75.2,55.0,50.4,65.4,58.2,56.8
+DC0310,Silicon Valley Facility 310,Silicon Valley,37.59441,-122.31821,31.2,Enterprise,0.98,2017,88.9,4.1,86.1,68.9,88.6,74.6,62.4,53.4
+DC0311,Silicon Valley Facility 311,Silicon Valley,37.33974,-122.1388,20.0,Colocation,0.49,2011,37.9,22.8,78.6,49.9,72.2,60.7,16.9,34.7
+DC0312,Silicon Valley Facility 312,Silicon Valley,37.47625,-122.00787,32.5,Edge,0.86,2018,51.0,30.1,18.2,93.2,61.8,69.0,52.2,50.2
+DC0313,Silicon Valley Facility 313,Silicon Valley,37.20877,-121.95577,28.0,Hyperscale,0.49,2020,78.0,23.5,94.0,74.7,39.0,99.0,68.6,52.2
+DC0314,Silicon Valley Facility 314,Silicon Valley,37.57743,-121.65556,32.4,Hyperscale,1.18,2021,40.2,22.3,67.0,98.4,51.3,59.6,88.9,38.5
+DC0315,Silicon Valley Facility 315,Silicon Valley,37.46093,-122.11499,31.8,Colocation,1.01,2019,54.2,55.8,60.5,72.9,72.6,52.1,76.7,35.1
+DC0316,Silicon Valley Facility 316,Silicon Valley,37.63717,-122.08639,43.7,Colocation,0.99,2022,32.8,7.7,54.9,50.4,49.3,72.3,28.4,15.1
+DC0317,Silicon Valley Facility 317,Silicon Valley,37.22013,-122.16105,38.8,Hyperscale,0.61,2013,31.5,47.5,69.2,51.4,83.8,46.9,70.0,37.7
+DC0318,Silicon Valley Facility 318,Silicon Valley,37.49841,-122.1958,8.7,Enterprise,0.29,2020,29.4,26.1,77.2,74.0,79.4,67.3,30.6,72.4
+DC0319,Silicon Valley Facility 319,Silicon Valley,37.5797,-122.14496,34.2,Hyperscale,1.02,2021,51.8,48.5,57.2,89.0,34.1,72.3,21.7,52.2
+DC0320,Silicon Valley Facility 320,Silicon Valley,37.39564,-121.78717,18.2,Hyperscale,0.27,2022,25.6,43.8,88.4,83.2,85.0,82.5,51.2,51.1
+DC0321,Silicon Valley Facility 321,Silicon Valley,37.5056,-122.15448,39.1,Colocation,1.23,2017,14.0,24.5,89.1,59.0,17.0,99.0,71.9,53.5
+DC0322,Silicon Valley Facility 322,Silicon Valley,37.15772,-121.82369,16.2,Enterprise,0.61,2021,27.4,43.9,68.6,50.3,54.4,30.1,54.6,56.4
+DC0323,Silicon Valley Facility 323,Silicon Valley,37.51425,-121.80587,34.3,Colocation,1.06,2012,31.6,76.4,38.2,61.5,43.7,56.5,87.3,29.0
+DC0324,Silicon Valley Facility 324,Silicon Valley,37.35657,-122.42507,6.1,Colocation,0.22,2018,36.9,51.3,65.7,70.3,36.9,58.7,82.7,20.2
+DC0325,Silicon Valley Facility 325,Silicon Valley,37.30364,-122.06992,33.5,Enterprise,0.69,2017,32.4,1.9,73.7,91.3,54.1,40.0,42.7,38.6
+DC0326,Silicon Valley Facility 326,Silicon Valley,37.43429,-122.00689,33.3,Hyperscale,1.14,2024,39.6,56.5,52.0,75.5,51.4,45.2,54.9,47.5
+DC0327,Silicon Valley Facility 327,Silicon Valley,37.23162,-121.81108,24.4,Hyperscale,0.88,2021,61.5,33.2,42.3,86.7,38.3,65.3,60.7,40.5
+DC0328,Silicon Valley Facility 328,Silicon Valley,37.54545,-122.25035,31.0,Hyperscale,0.6,2019,36.2,50.7,-0.5,89.5,38.0,68.3,67.9,60.6
+DC0329,Silicon Valley Facility 329,Silicon Valley,37.54399,-122.40559,18.9,Hyperscale,0.62,2023,48.6,21.7,35.1,59.8,15.0,47.5,55.6,33.1
+DC0330,Silicon Valley Facility 330,Silicon Valley,37.2078,-121.95577,39.4,Enterprise,1.13,2015,45.8,33.5,58.1,18.3,29.6,73.0,76.5,17.0
+DC0331,Silicon Valley Facility 331,Silicon Valley,37.3812,-122.08714,30.7,Enterprise,0.46,2020,30.3,59.7,51.1,64.5,89.8,52.9,51.6,40.6
+DC0332,Silicon Valley Facility 332,Silicon Valley,37.60914,-121.99167,36.7,Enterprise,1.28,2020,78.4,47.2,64.3,56.3,70.0,73.3,40.8,52.4
+DC0333,Silicon Valley Facility 333,Silicon Valley,36.91342,-121.90087,23.1,Colocation,0.77,2023,42.3,38.7,48.1,58.8,35.4,38.5,68.4,37.8
+DC0334,Silicon Valley Facility 334,Silicon Valley,37.07049,-121.58686,18.3,Colocation,0.54,2021,21.6,81.8,43.8,88.6,25.6,69.2,56.4,33.9
+DC0335,Silicon Valley Facility 335,Silicon Valley,37.41358,-122.40243,27.4,Enterprise,0.71,2024,48.5,39.5,49.4,49.6,23.5,66.2,37.4,42.8
+DC0336,Silicon Valley Facility 336,Silicon Valley,37.24822,-121.7246,36.4,Colocation,0.96,2010,55.7,42.4,51.0,84.9,49.1,33.4,55.8,51.0
+DC0337,Silicon Valley Facility 337,Silicon Valley,37.26636,-122.3404,23.6,Hyperscale,0.4,2024,32.9,55.8,50.1,54.1,35.1,73.8,60.2,29.0
+DC0338,Silicon Valley Facility 338,Silicon Valley,37.39333,-122.09844,8.3,Colocation,0.15,2017,37.9,-23.2,78.0,63.3,5.2,31.0,53.2,24.4
+DC0339,New York Metro (NJ) Facility 339,New York Metro (NJ),40.71484,-74.52066,19.6,Colocation,0.67,2019,87.3,70.4,76.1,18.9,51.6,51.2,47.6,63.5
+DC0340,New York Metro (NJ) Facility 340,New York Metro (NJ),40.56461,-74.11698,20.6,Hyperscale,0.49,2020,52.7,66.4,83.4,84.6,60.1,99.0,87.3,67.9
+DC0341,New York Metro (NJ) Facility 341,New York Metro (NJ),40.64257,-74.37513,30.3,Enterprise,0.79,2024,64.3,88.8,87.7,42.7,87.0,62.1,49.3,41.6
+DC0342,New York Metro (NJ) Facility 342,New York Metro (NJ),40.70384,-74.2878,17.0,Colocation,0.4,2018,68.2,61.8,98.2,90.1,50.3,72.9,81.4,70.6
+DC0343,New York Metro (NJ) Facility 343,New York Metro (NJ),40.74808,-74.08808,9.8,Edge,0.34,2022,62.4,51.4,76.5,79.2,56.7,12.8,41.2,78.0
+DC0344,New York Metro (NJ) Facility 344,New York Metro (NJ),40.86111,-74.16813,17.3,Hyperscale,0.54,2018,34.6,85.7,88.3,71.8,76.3,75.7,63.5,50.1
+DC0345,New York Metro (NJ) Facility 345,New York Metro (NJ),40.31267,-74.35821,20.4,Hyperscale,0.67,2011,90.4,90.2,47.8,42.7,60.1,52.6,68.4,86.3
+DC0346,New York Metro (NJ) Facility 346,New York Metro (NJ),40.52231,-74.08738,20.7,Enterprise,0.64,2018,32.6,93.7,62.3,81.2,76.8,79.8,66.9,73.5
+DC0347,New York Metro (NJ) Facility 347,New York Metro (NJ),40.68225,-74.19585,27.5,Enterprise,0.8,2021,78.2,49.4,38.0,46.6,60.8,49.4,50.8,94.5
+DC0348,New York Metro (NJ) Facility 348,New York Metro (NJ),40.74198,-74.18716,16.3,Hyperscale,0.27,2018,88.5,57.0,81.7,62.5,65.6,74.0,57.7,59.8
+DC0349,New York Metro (NJ) Facility 349,New York Metro (NJ),40.67686,-74.61401,17.8,Colocation,0.29,2017,95.0,74.3,29.0,57.6,46.0,52.7,82.1,69.6
+DC0350,New York Metro (NJ) Facility 350,New York Metro (NJ),40.71671,-74.0118,31.9,Enterprise,1.13,2018,48.0,54.4,79.4,66.6,49.0,71.8,96.4,75.8
+DC0351,New York Metro (NJ) Facility 351,New York Metro (NJ),40.48515,-73.99779,29.7,Enterprise,0.74,2022,96.4,50.5,69.4,70.4,65.8,74.0,48.2,78.4
+DC0352,New York Metro (NJ) Facility 352,New York Metro (NJ),40.57929,-74.60025,16.7,Colocation,0.47,2020,43.7,35.3,99.0,60.7,79.2,99.0,21.7,85.1
+DC0353,New York Metro (NJ) Facility 353,New York Metro (NJ),40.88586,-73.95212,13.6,Hyperscale,0.33,2023,84.7,94.9,48.3,99.0,46.9,86.2,65.0,80.1
+DC0354,New York Metro (NJ) Facility 354,New York Metro (NJ),40.62605,-74.41217,18.7,Colocation,0.26,2020,73.9,25.3,13.4,75.1,57.3,73.1,60.9,97.6
+DC0355,New York Metro (NJ) Facility 355,New York Metro (NJ),40.59881,-74.24603,9.0,Colocation,0.28,2018,77.1,53.1,75.7,62.4,65.2,40.8,65.5,62.7
+DC0356,New York Metro (NJ) Facility 356,New York Metro (NJ),40.55494,-73.78389,18.4,Colocation,0.31,2008,52.8,99.0,50.1,71.1,45.5,71.1,41.5,81.1
+DC0357,New York Metro (NJ) Facility 357,New York Metro (NJ),40.79833,-74.19859,18.6,Colocation,0.26,2014,99.0,45.3,91.5,63.3,96.3,99.0,61.2,48.1
+DC0358,New York Metro (NJ) Facility 358,New York Metro (NJ),40.68027,-74.59683,19.3,Hyperscale,0.71,2024,90.1,66.5,78.6,64.2,43.7,88.3,71.8,49.1
+DC0359,New York Metro (NJ) Facility 359,New York Metro (NJ),40.82545,-74.27344,31.0,Hyperscale,1.21,2024,85.4,71.8,63.7,99.0,49.5,61.8,80.3,70.4
+DC0360,New York Metro (NJ) Facility 360,New York Metro (NJ),40.76654,-74.53873,10.6,Colocation,0.23,2014,48.1,65.7,62.1,88.1,66.5,67.0,45.8,66.1
+DC0361,New York Metro (NJ) Facility 361,New York Metro (NJ),41.01185,-73.70911,26.9,Colocation,0.67,2016,90.5,46.5,69.0,52.2,37.1,63.4,69.0,97.3
+DC0362,New York Metro (NJ) Facility 362,New York Metro (NJ),40.79015,-74.47752,15.3,Colocation,0.59,2017,64.8,61.0,47.1,83.2,71.9,94.9,86.8,74.3
+DC0363,New York Metro (NJ) Facility 363,New York Metro (NJ),40.50691,-74.14737,38.0,Colocation,0.99,2024,64.5,66.1,67.6,90.0,81.3,59.2,37.9,88.0
+DC0364,New York Metro (NJ) Facility 364,New York Metro (NJ),40.53451,-74.13579,28.9,Colocation,0.81,2015,83.5,55.7,79.4,72.4,92.1,26.5,58.1,91.7
+DC0365,New York Metro (NJ) Facility 365,New York Metro (NJ),40.61624,-74.22331,42.4,Edge,0.81,2023,83.1,97.5,47.6,92.4,85.4,31.5,60.1,67.9
+DC0366,New York Metro (NJ) Facility 366,New York Metro (NJ),40.42947,-74.14151,35.6,Hyperscale,1.28,2022,43.8,56.6,85.3,63.1,68.5,70.1,65.4,59.5
+DC0367,New York Metro (NJ) Facility 367,New York Metro (NJ),40.74844,-74.2755,26.8,Hyperscale,1.02,2019,84.9,30.3,69.8,98.7,53.3,50.6,79.5,71.6
+DC0368,New York Metro (NJ) Facility 368,New York Metro (NJ),40.63347,-74.20296,25.0,Colocation,0.9,2018,86.4,62.8,26.6,94.5,99.0,90.8,-1.6,75.7
+DC0369,New York Metro (NJ) Facility 369,New York Metro (NJ),40.53697,-74.34383,17.4,Colocation,0.46,2020,64.6,40.4,71.8,68.0,74.3,66.3,44.4,61.3
+DC0370,New York Metro (NJ) Facility 370,New York Metro (NJ),40.9474,-73.93733,19.4,Colocation,0.64,2024,59.7,27.7,44.9,66.7,94.5,54.4,51.3,52.8
+DC0371,New York Metro (NJ) Facility 371,New York Metro (NJ),40.66448,-74.23328,20.5,Enterprise,0.73,2010,73.5,85.6,99.0,76.7,66.2,54.3,58.5,78.2
+DC0372,Seattle Facility 372,Seattle,47.80408,-122.35976,27.0,Colocation,0.72,2023,42.3,37.6,64.1,55.4,57.0,20.3,72.1,78.5
+DC0373,Seattle Facility 373,Seattle,47.59663,-122.41547,27.9,Hyperscale,0.87,2017,38.1,48.3,79.9,92.8,52.8,24.6,66.8,47.4
+DC0374,Seattle Facility 374,Seattle,47.77055,-122.07801,16.3,Hyperscale,0.33,2024,41.8,38.1,67.2,74.4,65.7,56.3,69.0,41.6
+DC0375,Seattle Facility 375,Seattle,47.77156,-122.21712,25.1,Hyperscale,0.82,2021,59.6,28.3,65.9,34.7,50.5,72.0,42.0,41.1
+DC0376,Seattle Facility 376,Seattle,47.69291,-122.17664,28.3,Enterprise,0.94,2020,4.7,13.4,44.7,69.2,66.0,59.5,54.4,40.3
+DC0377,Seattle Facility 377,Seattle,47.59523,-122.52401,18.9,Hyperscale,0.45,2017,60.9,45.1,58.6,93.1,99.0,35.7,71.6,88.9
+DC0378,Seattle Facility 378,Seattle,47.46592,-122.30651,19.1,Hyperscale,0.73,2024,53.0,43.1,63.6,77.0,75.2,35.7,61.2,13.8
+DC0379,Seattle Facility 379,Seattle,47.25915,-122.28308,20.0,Enterprise,0.68,2009,44.2,22.7,70.7,34.1,47.4,80.0,48.8,18.9
+DC0380,Seattle Facility 380,Seattle,47.45292,-122.3655,15.0,Hyperscale,0.31,2017,52.6,29.1,61.3,52.6,99.0,29.5,99.0,40.1
+DC0381,Seattle Facility 381,Seattle,47.74931,-122.37264,18.1,Colocation,0.35,2024,51.3,29.3,53.5,51.5,71.9,32.4,68.6,15.0
+DC0382,Seattle Facility 382,Seattle,47.2393,-122.69364,28.4,Hyperscale,0.86,2023,52.9,57.8,41.7,80.8,59.8,92.6,45.4,85.0
+DC0383,Seattle Facility 383,Seattle,47.05649,-122.28955,32.6,Enterprise,0.49,2016,5.0,34.2,34.0,99.0,52.9,57.2,70.1,45.5
+DC0384,Seattle Facility 384,Seattle,47.82301,-122.14446,23.9,Colocation,0.82,2019,37.3,15.7,67.6,74.8,73.9,98.9,20.4,44.7
+DC0385,Seattle Facility 385,Seattle,47.67063,-122.44197,19.8,Hyperscale,0.41,2020,69.5,38.3,22.5,41.4,65.9,66.5,74.5,34.7
+DC0386,Seattle Facility 386,Seattle,47.28157,-122.46776,20.1,Enterprise,0.41,2010,52.7,21.9,69.3,68.3,40.6,91.8,29.3,43.6
+DC0387,Seattle Facility 387,Seattle,47.74852,-122.52077,15.4,Hyperscale,0.35,2022,32.8,77.5,75.4,54.2,52.5,97.9,43.7,20.9
+DC0388,Seattle Facility 388,Seattle,47.54533,-122.10397,15.4,Colocation,0.56,2023,53.2,47.1,76.6,80.7,97.6,26.3,38.8,54.9
+DC0389,Seattle Facility 389,Seattle,47.67028,-122.35271,21.9,Colocation,0.57,2020,28.1,11.7,98.2,34.8,50.9,59.5,86.6,19.4
+DC0390,Seattle Facility 390,Seattle,47.4951,-122.21511,14.3,Edge,0.44,2021,55.5,23.0,75.9,49.1,93.2,42.6,14.9,34.6
+DC0391,Seattle Facility 391,Seattle,47.61596,-122.28659,15.7,Colocation,0.53,2009,43.3,62.4,41.9,42.4,79.8,33.1,58.3,43.4
+DC0392,Seattle Facility 392,Seattle,47.54311,-122.24026,19.1,Colocation,0.5,2019,51.9,25.8,47.9,73.9,38.9,33.4,85.0,52.4
+DC0393,Seattle Facility 393,Seattle,47.5009,-122.59856,16.4,Colocation,0.55,2022,79.8,56.5,41.8,69.1,36.3,27.6,53.2,59.3
+DC0394,Seattle Facility 394,Seattle,47.5734,-122.41727,23.4,Colocation,0.71,2023,52.9,13.0,55.9,64.3,21.5,74.9,57.3,26.1
+DC0395,Seattle Facility 395,Seattle,47.72069,-122.56581,9.1,Enterprise,0.15,2021,22.0,62.8,57.7,91.0,93.2,81.1,51.5,10.6
+DC0396,Seattle Facility 396,Seattle,47.74722,-122.09346,10.4,Enterprise,0.25,2015,53.6,82.6,64.0,27.4,43.8,57.0,40.8,9.7
+DC0397,Seattle Facility 397,Seattle,47.54085,-122.1973,16.2,Colocation,0.26,2016,46.2,25.1,96.5,69.2,69.0,58.3,63.5,22.5
+DC0398,Seattle Facility 398,Seattle,47.5707,-122.66557,12.1,Hyperscale,0.16,2018,29.3,62.6,68.4,59.2,69.3,70.8,99.0,47.9
+DC0399,Seattle Facility 399,Seattle,47.13878,-122.37203,36.9,Colocation,0.49,2024,28.9,38.5,75.5,87.1,23.1,65.7,44.6,37.7
+DC0400,"Columbus, OH Facility 400","Columbus, OH",40.14123,-82.54606,37.6,Enterprise,0.8,2021,75.2,65.9,54.8,65.8,49.0,99.0,68.9,45.2
+DC0401,"Columbus, OH Facility 401","Columbus, OH",40.07893,-82.98568,43.2,Hyperscale,0.7,2006,83.8,78.1,99.0,99.0,76.4,55.8,59.8,52.9
+DC0402,"Columbus, OH Facility 402","Columbus, OH",40.10653,-82.77421,25.9,Colocation,0.69,2018,52.7,75.8,67.0,88.4,75.7,40.8,31.0,39.7
+DC0403,"Columbus, OH Facility 403","Columbus, OH",40.02966,-82.9788,37.1,Colocation,1.25,2018,52.3,53.7,55.3,83.1,49.2,67.9,65.8,81.3
+DC0404,"Columbus, OH Facility 404","Columbus, OH",40.04391,-83.07708,32.8,Hyperscale,0.63,2019,42.4,95.2,56.3,42.2,56.0,99.0,80.6,65.4
+DC0405,"Columbus, OH Facility 405","Columbus, OH",39.96835,-82.62448,35.3,Hyperscale,1.36,2018,74.3,35.6,72.9,69.1,99.0,60.6,56.4,40.7
+DC0406,"Columbus, OH Facility 406","Columbus, OH",40.04153,-83.13567,27.7,Colocation,0.47,2021,62.5,56.9,45.4,78.1,65.9,83.1,86.6,58.3
+DC0407,"Columbus, OH Facility 407","Columbus, OH",39.79994,-82.93577,41.1,Enterprise,0.96,2016,41.3,34.4,98.7,72.3,99.0,72.8,77.9,70.1
+DC0408,"Columbus, OH Facility 408","Columbus, OH",40.20523,-82.84953,32.1,Colocation,0.67,2023,38.0,57.1,44.7,63.3,74.9,42.3,74.2,36.0
+DC0409,"Columbus, OH Facility 409","Columbus, OH",39.94243,-82.95661,24.8,Edge,0.41,2019,80.6,37.7,48.5,40.3,48.1,24.6,53.2,72.4
+DC0410,"Columbus, OH Facility 410","Columbus, OH",40.37612,-82.98916,15.1,Hyperscale,0.47,2016,56.6,27.4,71.1,71.8,99.0,78.6,69.4,69.7
+DC0411,"Columbus, OH Facility 411","Columbus, OH",39.96753,-82.68797,7.9,Hyperscale,0.11,2019,57.6,49.5,96.9,36.3,82.1,60.6,58.1,49.3
+DC0412,"Columbus, OH Facility 412","Columbus, OH",40.27602,-82.89147,39.5,Edge,0.77,2015,62.8,50.1,59.5,54.9,18.9,48.3,53.9,59.1
+DC0413,"Columbus, OH Facility 413","Columbus, OH",39.71234,-82.88832,59.8,Colocation,0.9,2024,95.3,38.7,48.6,54.7,64.2,74.6,77.4,68.6
+DC0414,"Columbus, OH Facility 414","Columbus, OH",39.75463,-82.86928,27.9,Edge,1.03,2024,77.4,45.4,99.0,61.9,63.2,88.7,74.4,25.6
+DC0415,"Columbus, OH Facility 415","Columbus, OH",40.07666,-82.98579,27.1,Enterprise,0.7,2016,60.1,68.2,42.8,84.0,69.4,86.5,50.5,70.9
+DC0416,"Columbus, OH Facility 416","Columbus, OH",40.08782,-82.68366,49.4,Colocation,0.86,2021,62.9,86.3,99.0,99.0,71.4,99.0,75.1,44.3
+DC0417,"Columbus, OH Facility 417","Columbus, OH",39.94365,-82.99016,19.7,Enterprise,0.43,2021,59.3,66.2,81.9,46.5,36.7,56.0,73.8,66.3
+DC0418,"Columbus, OH Facility 418","Columbus, OH",40.10881,-83.02384,24.3,Colocation,0.34,2020,62.5,34.3,98.3,47.6,89.5,77.6,87.9,50.8
+DC0419,"Columbus, OH Facility 419","Columbus, OH",39.9355,-83.13246,44.1,Hyperscale,1.73,2021,57.4,52.1,58.4,73.5,95.5,36.9,51.1,46.3
+DC0420,"Columbus, OH Facility 420","Columbus, OH",39.96738,-83.28571,15.4,Edge,0.51,2024,58.3,48.3,80.9,69.7,67.5,70.8,68.3,66.8
+DC0421,"Columbus, OH Facility 421","Columbus, OH",39.66402,-82.76835,26.6,Colocation,0.74,2020,57.8,83.9,99.0,83.1,65.8,75.3,42.7,59.5
+DC0422,"Columbus, OH Facility 422","Columbus, OH",40.14231,-83.14622,27.7,Hyperscale,1.03,2019,46.8,61.2,53.9,62.1,19.6,39.3,70.3,44.8
+DC0423,"Columbus, OH Facility 423","Columbus, OH",39.92673,-82.83901,36.3,Colocation,0.89,2019,79.1,31.9,75.2,53.8,69.3,32.1,55.0,45.2
+DC0424,"Columbus, OH Facility 424","Columbus, OH",40.10519,-83.16712,46.7,Enterprise,1.05,2024,75.9,60.2,44.8,64.9,43.8,81.8,87.8,36.8
+DC0425,"Reno, NV Facility 425","Reno, NV",39.49596,-119.60724,26.8,Hyperscale,0.7,2020,69.9,30.3,61.4,68.9,99.0,41.8,78.7,35.8
+DC0426,"Reno, NV Facility 426","Reno, NV",39.80201,-119.93116,17.9,Hyperscale,0.64,2010,32.7,47.3,66.4,11.6,85.4,19.1,60.0,70.8
+DC0427,"Reno, NV Facility 427","Reno, NV",39.06124,-119.76623,32.3,Enterprise,0.71,2021,94.8,39.5,40.2,94.1,78.9,52.1,51.1,42.2
+DC0428,"Reno, NV Facility 428","Reno, NV",39.60277,-120.01948,32.1,Colocation,1.16,2017,48.8,53.1,55.8,59.5,74.0,32.3,55.7,28.8
+DC0429,"Reno, NV Facility 429","Reno, NV",39.43925,-119.82793,31.4,Colocation,0.41,2019,57.0,8.0,82.0,42.0,20.9,54.6,95.3,62.2
+DC0430,"Reno, NV Facility 430","Reno, NV",39.4423,-119.97093,18.0,Hyperscale,0.38,2005,20.4,19.9,58.9,99.0,39.2,43.3,91.8,55.0
+DC0431,"Reno, NV Facility 431","Reno, NV",39.65229,-120.06273,34.5,Colocation,0.84,2017,74.0,32.2,64.2,94.6,56.7,84.4,70.2,37.7
+DC0432,"Reno, NV Facility 432","Reno, NV",39.61327,-119.62001,33.7,Colocation,0.6,2023,54.7,66.4,78.0,67.4,18.3,26.0,32.7,45.1
+DC0433,"Reno, NV Facility 433","Reno, NV",39.42245,-119.49708,45.0,Colocation,0.68,2021,48.2,17.2,84.4,43.0,29.7,63.7,81.3,81.0
+DC0434,"Reno, NV Facility 434","Reno, NV",39.70619,-119.70433,22.4,Edge,0.64,2009,65.5,78.3,44.2,99.0,18.9,51.8,73.5,29.8
+DC0435,"Reno, NV Facility 435","Reno, NV",39.64708,-120.14068,38.3,Hyperscale,1.27,2019,38.3,25.0,60.4,96.7,60.3,52.6,8.0,58.8
+DC0436,"Reno, NV Facility 436","Reno, NV",39.35035,-120.31802,29.5,Enterprise,1.11,2021,69.2,12.7,64.8,72.1,81.1,47.4,46.2,45.9
+DC0437,"Reno, NV Facility 437","Reno, NV",39.47228,-119.41505,30.3,Enterprise,0.98,2016,78.1,67.6,65.6,88.6,7.8,77.7,41.5,77.0
+DC0438,"Reno, NV Facility 438","Reno, NV",39.61959,-119.92791,33.3,Colocation,0.74,2024,35.8,29.7,76.1,81.4,50.1,69.3,72.2,57.8
+DC0439,"Reno, NV Facility 439","Reno, NV",39.60911,-119.63863,32.5,Colocation,1.24,2018,47.7,56.9,91.3,43.7,41.4,62.4,42.7,27.0
+DC0440,"Reno, NV Facility 440","Reno, NV",39.83141,-119.71008,22.8,Colocation,0.74,2007,74.7,2.2,58.8,83.4,65.8,54.2,41.9,57.1
+DC0441,"Reno, NV Facility 441","Reno, NV",39.25678,-119.88855,36.7,Edge,1.01,2009,37.2,52.1,68.5,71.3,45.8,99.0,69.6,48.3
+DC0442,"Reno, NV Facility 442","Reno, NV",39.63354,-119.40977,28.4,Hyperscale,1.02,2022,59.8,31.3,59.0,99.0,43.0,60.3,54.1,37.7
+DC0443,"Reno, NV Facility 443","Reno, NV",39.1424,-119.56863,23.3,Enterprise,0.48,2020,62.6,47.5,82.4,84.5,79.7,43.5,75.0,61.6
+DC0444,"Reno, NV Facility 444","Reno, NV",39.3747,-119.95287,35.6,Colocation,1.05,2022,36.6,40.4,39.8,81.6,74.5,90.5,58.5,58.6
+DC0445,"Reno, NV Facility 445","Reno, NV",39.46353,-119.77845,10.6,Colocation,0.22,2020,72.8,31.7,49.7,53.8,52.2,44.5,49.9,64.6
+DC0446,"Reno, NV Facility 446","Reno, NV",39.60356,-119.5421,19.5,Hyperscale,0.46,2021,53.3,52.9,56.1,55.9,66.2,64.4,77.6,70.5
+DC0447,Iowa (Des Moines) Facility 447,Iowa (Des Moines),41.50356,-93.97562,24.4,Colocation,0.36,2023,25.6,49.5,43.2,99.0,39.5,72.7,39.4,34.0
+DC0448,Iowa (Des Moines) Facility 448,Iowa (Des Moines),41.82245,-93.2948,56.1,Hyperscale,1.67,2018,65.8,15.9,99.0,65.6,78.3,66.9,68.8,16.1
+DC0449,Iowa (Des Moines) Facility 449,Iowa (Des Moines),41.52558,-93.54274,26.5,Edge,0.65,2010,29.5,56.2,56.4,68.5,22.8,48.1,81.4,18.1
+DC0450,Iowa (Des Moines) Facility 450,Iowa (Des Moines),41.42771,-93.89223,41.1,Hyperscale,1.59,2018,50.9,35.9,58.4,60.1,46.0,50.8,77.7,30.1
+DC0451,Iowa (Des Moines) Facility 451,Iowa (Des Moines),41.76024,-93.37225,14.2,Hyperscale,0.33,2015,70.5,38.3,52.2,85.2,70.6,25.8,40.4,34.5
+DC0452,Iowa (Des Moines) Facility 452,Iowa (Des Moines),41.43269,-93.98444,38.2,Enterprise,0.79,2024,9.5,74.1,77.4,65.4,49.3,46.8,22.8,11.8
+DC0453,Iowa (Des Moines) Facility 453,Iowa (Des Moines),41.47009,-93.5611,32.3,Colocation,0.93,2020,72.2,63.8,52.2,83.9,68.0,71.3,33.0,10.8
+DC0454,Iowa (Des Moines) Facility 454,Iowa (Des Moines),41.5511,-93.33822,54.2,Colocation,1.58,2016,59.3,-7.3,59.9,58.3,46.7,65.1,47.2,41.6
+DC0455,Iowa (Des Moines) Facility 455,Iowa (Des Moines),41.78318,-93.54027,47.7,Colocation,0.88,2021,40.5,74.3,37.7,66.3,66.3,53.7,34.7,53.7
+DC0456,Iowa (Des Moines) Facility 456,Iowa (Des Moines),41.66131,-93.7902,63.7,Colocation,0.86,2016,44.1,7.0,70.5,99.0,56.0,58.8,89.9,22.5
+DC0457,Iowa (Des Moines) Facility 457,Iowa (Des Moines),41.70297,-93.61368,55.7,Enterprise,1.01,2024,69.1,51.8,46.0,52.3,45.3,22.2,65.0,23.8
+DC0458,Iowa (Des Moines) Facility 458,Iowa (Des Moines),41.53987,-93.79017,38.0,Edge,1.25,2018,43.3,6.5,79.2,80.5,41.3,66.0,61.7,56.9
+DC0459,Iowa (Des Moines) Facility 459,Iowa (Des Moines),41.52138,-93.95345,64.5,Hyperscale,1.93,2021,19.4,29.3,51.1,66.6,68.6,45.8,53.2,49.6
+DC0460,Iowa (Des Moines) Facility 460,Iowa (Des Moines),41.84866,-93.52098,48.0,Hyperscale,0.65,2015,62.4,42.2,60.1,61.0,68.9,63.4,28.7,44.1
+DC0461,Iowa (Des Moines) Facility 461,Iowa (Des Moines),41.43509,-93.783,39.1,Colocation,1.27,2020,22.5,4.0,32.6,61.4,34.5,12.3,53.3,29.2
+DC0462,Iowa (Des Moines) Facility 462,Iowa (Des Moines),41.47116,-93.51027,46.3,Edge,1.61,2019,35.3,19.7,95.5,76.0,45.8,57.6,87.0,49.5
+DC0463,Iowa (Des Moines) Facility 463,Iowa (Des Moines),41.6868,-93.87229,52.2,Hyperscale,1.4,2018,12.9,12.8,48.5,56.9,43.7,59.5,74.1,48.7
+DC0464,Iowa (Des Moines) Facility 464,Iowa (Des Moines),41.75971,-93.56616,50.7,Hyperscale,1.38,2018,32.1,-0.4,43.9,55.3,29.4,81.7,37.7,44.7
+DC0465,Miami Facility 465,Miami,25.82469,-80.03126,16.5,Hyperscale,0.49,2021,43.7,76.0,67.3,99.0,38.4,54.0,58.8,68.2
+DC0466,Miami Facility 466,Miami,26.03159,-80.54538,5.2,Edge,0.16,2010,67.8,56.4,63.6,29.7,85.2,99.0,71.5,54.4
+DC0467,Miami Facility 467,Miami,25.67108,-80.00089,15.6,Colocation,0.33,2010,55.4,75.2,76.7,65.4,79.9,24.0,80.2,73.6
+DC0468,Miami Facility 468,Miami,25.76183,-80.0155,17.9,Enterprise,0.28,2018,56.1,34.2,72.0,99.0,58.3,48.3,69.5,95.8
+DC0469,Miami Facility 469,Miami,25.54383,-80.01109,16.2,Hyperscale,0.24,2020,81.8,73.7,91.8,80.6,46.1,30.4,48.3,54.8
+DC0470,Miami Facility 470,Miami,25.71964,-80.16014,19.0,Hyperscale,0.59,2017,85.9,78.9,73.0,45.7,99.0,57.0,77.3,71.0
+DC0471,Miami Facility 471,Miami,25.57467,-80.37159,36.6,Colocation,0.82,2022,77.8,74.3,57.3,97.2,28.6,44.5,90.4,78.6
+DC0472,Miami Facility 472,Miami,25.99404,-80.33698,24.3,Edge,0.9,2017,99.0,64.3,99.0,34.0,32.2,83.2,32.8,67.5
+DC0473,Miami Facility 473,Miami,25.78546,-80.67825,16.6,Colocation,0.46,2015,95.0,72.9,70.0,62.1,67.8,76.9,53.3,75.5
+DC0474,Miami Facility 474,Miami,25.61675,-80.09811,23.3,Enterprise,0.82,2021,93.4,58.5,71.0,80.8,75.4,82.9,46.6,62.9
+DC0475,Miami Facility 475,Miami,26.14018,-80.4388,21.0,Enterprise,0.37,2016,65.1,44.8,37.4,6.0,89.6,34.2,95.6,80.7
+DC0476,Miami Facility 476,Miami,25.60325,-80.16534,29.0,Hyperscale,0.5,2007,66.7,75.2,77.5,49.1,63.0,45.7,78.3,60.3
+DC0477,Miami Facility 477,Miami,25.64228,-80.46687,16.6,Colocation,0.45,2016,72.3,60.1,72.0,99.0,58.0,89.7,75.0,90.2
+DC0478,Miami Facility 478,Miami,25.71447,-80.22214,14.3,Hyperscale,0.28,2024,67.9,76.8,68.7,11.3,39.3,77.0,75.6,52.2
+DC0479,Miami Facility 479,Miami,25.95385,-79.73054,8.0,Enterprise,0.22,2021,78.0,73.0,69.2,85.7,76.4,64.6,56.1,84.9
+DC0480,Denver Facility 480,Denver,39.40161,-104.9799,10.9,Enterprise,0.26,2020,60.3,16.6,69.4,44.8,38.1,48.3,63.2,54.6
+DC0481,Denver Facility 481,Denver,39.5575,-104.96115,13.5,Hyperscale,0.3,2021,44.6,36.9,56.3,88.8,-3.4,55.2,91.7,56.6
+DC0482,Denver Facility 482,Denver,39.78597,-105.08403,11.0,Hyperscale,0.4,2019,74.8,3.5,43.0,78.1,93.5,38.5,55.0,55.0
+DC0483,Denver Facility 483,Denver,39.68606,-104.99105,38.3,Enterprise,1.14,2016,25.9,54.6,17.2,77.6,37.5,52.4,74.7,55.7
+DC0484,Denver Facility 484,Denver,39.53985,-104.70621,20.9,Enterprise,0.73,2019,51.9,63.6,34.8,71.9,42.0,79.7,75.4,59.5
+DC0485,Denver Facility 485,Denver,39.93736,-105.11765,10.8,Enterprise,0.38,2019,81.6,66.7,62.6,67.8,72.6,64.1,75.7,18.2
+DC0486,Denver Facility 486,Denver,39.70346,-105.02061,15.1,Edge,0.52,2015,85.9,45.4,36.2,49.5,12.5,39.6,59.6,70.6
+DC0487,Denver Facility 487,Denver,39.89272,-105.47432,15.8,Enterprise,0.36,2018,59.4,48.9,45.0,51.3,42.9,47.2,55.6,45.5
+DC0488,Denver Facility 488,Denver,39.77803,-105.21713,15.2,Colocation,0.34,2010,45.9,30.8,67.8,61.5,24.3,62.0,60.1,27.3
+DC0489,Denver Facility 489,Denver,39.63115,-105.46522,26.3,Hyperscale,0.83,2015,41.4,56.1,44.9,43.0,52.2,73.8,96.7,58.6
+DC0490,Denver Facility 490,Denver,39.96948,-105.02597,34.8,Enterprise,0.46,2021,71.5,51.1,53.1,80.8,57.5,68.9,44.3,55.9
+DC0491,Denver Facility 491,Denver,39.60785,-104.96196,23.2,Enterprise,0.78,2022,49.8,48.8,63.9,62.3,70.0,53.2,32.1,23.2
+DC0492,Denver Facility 492,Denver,40.00205,-105.23174,20.4,Colocation,0.63,2021,55.3,35.3,34.3,69.9,57.3,51.4,67.0,67.8
+DC0493,Denver Facility 493,Denver,39.66025,-105.08549,22.1,Enterprise,0.82,2020,75.1,47.1,63.9,71.0,66.2,56.0,65.6,27.4
+DC0494,"Portland, OR Facility 494","Portland, OR",45.60337,-122.50749,20.0,Colocation,0.57,2014,51.5,52.0,56.2,65.6,34.5,36.0,66.0,37.3
+DC0495,"Portland, OR Facility 495","Portland, OR",45.84568,-122.72797,12.7,Hyperscale,0.27,2015,18.0,20.3,47.6,83.0,62.9,43.6,50.8,65.9
+DC0496,"Portland, OR Facility 496","Portland, OR",45.40262,-122.49286,17.0,Hyperscale,0.45,2011,66.8,20.1,85.9,65.9,76.6,57.7,84.5,31.3
+DC0497,"Portland, OR Facility 497","Portland, OR",45.3566,-122.34576,21.2,Hyperscale,0.72,2021,45.4,66.8,21.9,66.6,50.3,74.7,82.3,57.7
+DC0498,"Portland, OR Facility 498","Portland, OR",45.7055,-122.65837,17.7,Colocation,0.53,2016,54.3,43.3,58.8,71.7,91.1,44.4,54.4,46.4
+DC0499,"Portland, OR Facility 499","Portland, OR",45.6275,-122.88864,20.9,Enterprise,0.42,2022,68.0,47.0,82.7,88.2,72.0,39.7,93.6,67.3
+DC0500,"Portland, OR Facility 500","Portland, OR",45.27392,-122.52322,22.8,Hyperscale,0.41,2021,51.1,14.9,36.9,72.6,43.6,26.7,32.0,40.9
+DC0501,"Portland, OR Facility 501","Portland, OR",45.33846,-123.11178,20.2,Enterprise,0.29,2017,53.5,70.6,73.7,59.9,67.4,66.8,76.1,46.9
+DC0502,"Portland, OR Facility 502","Portland, OR",45.23834,-122.53244,16.2,Enterprise,0.64,2022,68.7,59.0,66.5,65.1,79.2,46.7,33.4,26.3
+DC0503,"Portland, OR Facility 503","Portland, OR",45.60447,-123.01783,22.8,Edge,0.81,2016,35.7,55.7,57.4,71.6,48.1,51.3,42.5,46.2
+DC0504,"Portland, OR Facility 504","Portland, OR",45.63024,-122.70141,14.8,Hyperscale,0.25,2018,46.8,50.8,70.2,63.6,25.9,82.4,60.4,48.6
+DC0505,"Portland, OR Facility 505","Portland, OR",45.58009,-122.3651,24.8,Hyperscale,0.48,2021,78.8,60.7,73.0,67.5,58.7,65.8,69.7,71.5
+DC0506,Salt Lake City Facility 506,Salt Lake City,40.5238,-111.59632,26.8,Enterprise,0.38,2020,88.5,43.2,25.0,47.6,97.8,74.3,69.1,39.5
+DC0507,Salt Lake City Facility 507,Salt Lake City,41.12221,-111.66478,23.9,Edge,0.68,2021,22.6,71.0,49.0,81.2,29.3,55.6,79.9,38.3
+DC0508,Salt Lake City Facility 508,Salt Lake City,40.94812,-111.50087,18.2,Hyperscale,0.43,2020,37.4,37.6,39.8,36.1,73.6,51.5,74.5,57.5
+DC0509,Salt Lake City Facility 509,Salt Lake City,40.82618,-112.35201,26.8,Hyperscale,0.77,2019,65.6,5.0,51.2,77.4,70.1,99.0,43.8,58.2
+DC0510,Salt Lake City Facility 510,Salt Lake City,40.91934,-111.62831,31.0,Edge,0.71,2014,50.7,4.6,53.9,71.9,20.4,18.4,27.6,45.4
+DC0511,Salt Lake City Facility 511,Salt Lake City,41.11327,-111.88919,29.8,Hyperscale,0.61,2020,35.3,25.0,53.3,38.1,47.9,23.5,83.6,65.5
+DC0512,Salt Lake City Facility 512,Salt Lake City,41.00147,-112.15532,24.9,Colocation,0.79,2020,2.1,28.0,56.5,63.1,80.0,50.6,59.4,83.5
+DC0513,Salt Lake City Facility 513,Salt Lake City,40.69968,-111.81469,34.0,Enterprise,1.19,2024,42.0,72.7,72.8,55.5,42.1,59.8,39.6,29.7
+DC0514,Salt Lake City Facility 514,Salt Lake City,40.91372,-112.10566,45.6,Hyperscale,1.08,2020,36.4,43.3,96.7,56.9,68.1,27.4,81.2,17.7
+DC0515,Salt Lake City Facility 515,Salt Lake City,40.82954,-111.93498,35.5,Hyperscale,0.8,2008,58.4,35.8,61.6,60.6,29.3,35.0,76.9,42.0
