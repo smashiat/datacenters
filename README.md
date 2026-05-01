@@ -38,31 +38,6 @@ Data centers are the physical backbone of the internet — and they are largely 
 | `fig7_water_vs_ej.png` | Water consumption vs. EJ burden by cluster |
 | `fig8_ej_by_era.png` | EJ burden of early vs. AI-era facilities |
 
-## How to Run
-
-```bash
-# Clone the repo
-git clone https://github.com/smashiat/dc-ej-analysis
-cd dc-ej-analysis
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch notebook
-jupyter notebook data_centers_ej_analysis.ipynb
-```
-
-## Project Structure
-
-```
-dc-ej-analysis/
-├── data_centers_ej_analysis.ipynb   # Main analysis notebook
-├── data/
-│   └── dc_ej_merged.csv             # Dataset (515 facilities, 15 clusters)
-├── figures/                         # Generated visualizations
-├── requirements.txt
-└── README.md
-```
 
 ## Methodology Notes
 
@@ -78,11 +53,4 @@ dc-ej-analysis/
 3. Incorporate grid data to assess whether DC-driven demand raises local electricity rates
 4. Build an interactive Folium/Leaflet map for public exploration
 
-## Relevance to Environmental Justice Advocacy
-
-This analysis is a contribution to the growing body of computational EJ research. Methodologically, it demonstrates how publicly available government data (EPA EJScreen) can be combined with infrastructure data to surface patterns that are invisible in either dataset alone — a core technique for data-driven environmental advocacy and policy work.
-
----
-
-*Tools: Python, pandas, matplotlib, seaborn, scipy*  
 
